@@ -1,0 +1,704 @@
+Zipcode,Type,City,County,State,Area Codes
+1001,Standard,Agawam,Hampden County,MA,413
+1002,Standard,Amherst,Hampshire County,MA,413
+1003,Po Box,Amherst,Hampshire County,MA,413
+1004,Po Box,Amherst,Hampshire County,MA,413
+1005,Standard,Barre,Worcester County,MA,978
+1007,Standard,Belchertown,Hampshire County,MA,413
+1008,Standard,Blandford,Hampden County,MA,413
+1009,Po Box,Bondsville,Hampden County,MA,413
+1010,Standard,Brimfield,Hampden County,MA,413
+1011,Standard,Chester,Hampden County,MA,413
+1012,Standard,Chesterfield,Hampshire County,MA,413
+1013,Standard,Chicopee,Hampden County,MA,413
+1014,Po Box,Chicopee,Hampden County,MA,413
+1020,Standard,Chicopee,Hampden County,MA,413
+1021,Po Box,Chicopee,Hampden County,MA,413
+1022,Standard,Chicopee,Hampden County,MA,413
+1026,Standard,Cummington,Hampshire County,MA,413
+1027,Standard,Easthampton,Hampshire County,MA,413
+1028,Standard,East Longmeadow,Hampden County,MA,413
+1029,Po Box,East Otis,Berkshire County,MA,413
+1030,Standard,Feeding Hills,Hampden County,MA,413
+1031,Standard,Gilbertville,Worcester County,MA,413
+1032,Standard,Goshen,Hampshire County,MA,413
+1033,Standard,Granby,Hampshire County,MA,413
+1034,Standard,Granville,Hampden County,MA,413
+1035,Standard,Hadley,Hampshire County,MA,413
+1036,Standard,Hampden,Hampden County,MA,413
+1037,Po Box,Hardwick,Worcester County,MA,413
+1038,Standard,Hatfield,Hampshire County,MA,413
+1039,Standard,Haydenville,Hampshire County,MA,413
+1040,Standard,Holyoke,Hampden County,MA,413
+1041,Po Box,Holyoke,Hampden County,MA,413
+1050,Standard,Huntington,Hampshire County,MA,413
+1053,Standard,Leeds,Hampshire County,MA,413
+1054,Standard,Leverett,Franklin County,MA,413
+1056,Standard,Ludlow,Hampden County,MA,413
+1057,Standard,Monson,Hampden County,MA,413
+1059,Po Box,North Amherst,Hampshire County,MA,413
+1060,Standard,Northampton,Hampshire County,MA,413
+1061,Po Box,Northampton,Hampshire County,MA,413
+1062,Standard,Florence,Hampshire County,MA,413
+1063,Unique,Northampton,Hampshire County,MA,413
+1066,Po Box,North Hatfield,Franklin County,MA,413
+1068,Standard,Oakham,Worcester County,MA,"508,774"
+1069,Standard,Palmer,Hampden County,MA,413
+1070,Standard,Plainfield,Hampshire County,MA,413
+1071,Standard,Russell,Hampden County,MA,413
+1072,Standard,Shutesbury,Franklin County,MA,413
+1073,Standard,Southampton,Hampshire County,MA,413
+1074,Po Box,South Barre,Worcester County,MA,978
+1075,Standard,South Hadley,Hampshire County,MA,413
+1077,Standard,Southwick,Hampden County,MA,413
+1079,Po Box,Thorndike,Hampden County,MA,413
+1080,Standard,Three Rivers,Hampden County,MA,413
+1081,Standard,Wales,Hampden County,MA,413
+1082,Standard,Ware,Hampshire County,MA,413
+1083,Po Box,Warren,Worcester County,MA,413
+1084,Standard,West Chesterfield,Hampshire County,MA,413
+1085,Standard,Westfield,Hampden County,MA,413
+1086,Po Box,Westfield,Hampden County,MA,413
+1088,Standard,West Hatfield,Hampshire County,MA,413
+1089,Standard,West Springfield,Hampden County,MA,413
+1090,Po Box,West Springfield,Hampden County,MA,413
+1092,Po Box,West Warren,Worcester County,MA,413
+1093,Po Box,Whately,Franklin County,MA,413
+1094,Po Box,Wheelwright,Worcester County,MA,413
+1095,Standard,Wilbraham,Hampden County,MA,413
+1096,Standard,Williamsburg,Hampshire County,MA,413
+1097,Po Box,Woronoco,Hampden County,MA,413
+1098,Standard,Worthington,Hampshire County,MA,413
+1101,Po Box,Springfield,Hampden County,MA,413
+1102,Po Box,Springfield,Hampden County,MA,413
+1103,Standard,Springfield,Hampden County,MA,413
+1104,Standard,Springfield,Hampden County,MA,413
+1105,Standard,Springfield,Hampden County,MA,413
+1106,Standard,Longmeadow,Hampden County,MA,413
+1107,Standard,Springfield,Hampden County,MA,"860,413"
+1108,Standard,Springfield,Hampden County,MA,413
+1109,Standard,Springfield,Hampden County,MA,413
+1111,Unique,Springfield,Hampden County,MA,413
+1115,Po Box,Springfield,Hampden County,MA,413
+1116,Po Box,Longmeadow,Hampden County,MA,413
+1118,Standard,Springfield,Hampden County,MA,413
+1119,Standard,Springfield,Hampden County,MA,413
+1128,Standard,Springfield,Hampden County,MA,413
+1129,Standard,Springfield,Hampden County,MA,413
+1133,Unique,Springfield,Hampden County,MA,413
+1138,Po Box,Springfield,Hampden County,MA,413
+1139,Po Box,Springfield,Hampden County,MA,413
+1144,Standard,Springfield,Hampden County,MA,413
+1151,Standard,Indian Orchard,Hampden County,MA,413
+1152,Standard,Springfield,Hampden County,MA,413
+1195,Standard,Springfield,Hampden County,MA,413
+1199,Unique,Springfield,Hampden County,MA,413
+1201,Standard,Pittsfield,Berkshire County,MA,413
+1202,Po Box,Pittsfield,Berkshire County,MA,413
+1203,Po Box,Pittsfield,Berkshire County,MA,413
+1220,Standard,Adams,Berkshire County,MA,413
+1222,Standard,Ashley Falls,Berkshire County,MA,413
+1223,Standard,Becket,Berkshire County,MA,413
+1224,Standard,Berkshire,Berkshire County,MA,413
+1225,Standard,Cheshire,Berkshire County,MA,413
+1226,Standard,Dalton,Berkshire County,MA,413
+1227,Po Box,Dalton,Berkshire County,MA,413
+1229,Po Box,Glendale,Berkshire County,MA,413
+1230,Standard,Great Barrington,Berkshire County,MA,413
+1235,Standard,Hinsdale,Berkshire County,MA,413
+1236,Standard,Housatonic,Berkshire County,MA,413
+1237,Standard,Lanesboro,Berkshire County,MA,413
+1238,Standard,Lee,Berkshire County,MA,413
+1240,Standard,Lenox,Berkshire County,MA,413
+1242,Po Box,Lenox Dale,Berkshire County,MA,413
+1243,Po Box,Middlefield,Hampshire County,MA,413
+1244,Po Box,Mill River,Berkshire County,MA,413
+1245,Standard,Monterey,Berkshire County,MA,413
+1247,Standard,North Adams,Berkshire County,MA,413
+1252,Po Box,North Egremont,Berkshire County,MA,413
+1253,Standard,Otis,Berkshire County,MA,413
+1254,Standard,Richmond,Berkshire County,MA,413
+1255,Standard,Sandisfield,Berkshire County,MA,413
+1256,Standard,Savoy,Berkshire County,MA,413
+1257,Standard,Sheffield,Berkshire County,MA,413
+1258,Standard,South Egremont,Berkshire County,MA,413
+1259,Standard,Southfield,Berkshire County,MA,413
+1260,Po Box,South Lee,Berkshire County,MA,413
+1262,Po Box,Stockbridge,Berkshire County,MA,413
+1263,Unique,Stockbridge,Berkshire County,MA,413
+1264,Po Box,Tyringham,Berkshire County,MA,413
+1266,Standard,West Stockbridge,Berkshire County,MA,413
+1267,Standard,Williamstown,Berkshire County,MA,413
+1270,Standard,Windsor,Berkshire County,MA,413
+1301,Standard,Greenfield,Franklin County,MA,413
+1302,Po Box,Greenfield,Franklin County,MA,413
+1330,Standard,Ashfield,Franklin County,MA,413
+1331,Standard,Athol,Worcester County,MA,978
+1337,Standard,Bernardston,Franklin County,MA,413
+1338,Standard,Buckland,Franklin County,MA,413
+1339,Standard,Charlemont,Franklin County,MA,413
+1340,Standard,Colrain,Franklin County,MA,413
+1341,Standard,Conway,Franklin County,MA,413
+1342,Standard,Deerfield,Franklin County,MA,413
+1343,Standard,Drury,Berkshire County,MA,413
+1344,Standard,Erving,Franklin County,MA,"413,978"
+1346,Standard,Heath,Franklin County,MA,413
+1347,Po Box,Lake Pleasant,Franklin County,MA,413
+1349,Standard,Millers Falls,Franklin County,MA,413
+1350,Po Box,Monroe Bridge,Franklin County,MA,413
+1351,Standard,Montague,Franklin County,MA,413
+1354,Standard,Gill,Franklin County,MA,413
+1355,Standard,New Salem,Franklin County,MA,978
+1360,Standard,Northfield,Franklin County,MA,413
+1364,Standard,Orange,Franklin County,MA,978
+1366,Standard,Petersham,Worcester County,MA,978
+1367,Standard,Rowe,Franklin County,MA,413
+1368,Standard,Royalston,Worcester County,MA,978
+1370,Standard,Shelburne Falls,Franklin County,MA,413
+1373,Standard,South Deerfield,Franklin County,MA,413
+1375,Standard,Sunderland,Franklin County,MA,413
+1376,Standard,Turners Falls,Franklin County,MA,413
+1378,Standard,Warwick,Franklin County,MA,978
+1379,Standard,Wendell,Franklin County,MA,978
+1380,Standard,Wendell Depot,Franklin County,MA,
+1420,Standard,Fitchburg,Worcester County,MA,"978,617"
+1430,Standard,Ashburnham,Worcester County,MA,978
+1431,Standard,Ashby,Middlesex County,MA,978
+1432,Standard,Ayer,Middlesex County,MA,978
+1434,Standard,Devens,Worcester County,MA,
+1436,Standard,Baldwinville,Worcester County,MA,978
+1438,Po Box,East Templeton,Worcester County,MA,978
+1440,Standard,Gardner,Worcester County,MA,978
+1441,Unique,Westminster,Worcester County,MA,978
+1450,Standard,Groton,Middlesex County,MA,978
+1451,Standard,Harvard,Worcester County,MA,"978,617"
+1452,Standard,Hubbardston,Worcester County,MA,978
+1453,Standard,Leominster,Worcester County,MA,"978,508"
+1460,Standard,Littleton,Middlesex County,MA,"978,508,781"
+1462,Standard,Lunenburg,Worcester County,MA,978
+1463,Standard,Pepperell,Middlesex County,MA,978
+1464,Standard,Shirley,Middlesex County,MA,978
+1467,Po Box,Still River,Worcester County,MA,978
+1468,Standard,Templeton,Worcester County,MA,978
+1469,Standard,Townsend,Middlesex County,MA,978
+1470,Unique,Groton,Middlesex County,MA,351
+1471,Unique,Groton,Middlesex County,MA,351
+1472,Po Box,West Groton,Middlesex County,MA,978
+1473,Standard,Westminster,Worcester County,MA,978
+1474,Standard,West Townsend,Middlesex County,MA,978
+1475,Standard,Winchendon,Worcester County,MA,978
+1477,Po Box,Winchendon Springs,Worcester County,MA,
+1501,Standard,Auburn,Worcester County,MA,"508,774"
+1503,Standard,Berlin,Worcester County,MA,978
+1504,Standard,Blackstone,Worcester County,MA,"508,774"
+1505,Standard,Boylston,Worcester County,MA,"508,774"
+1506,Standard,Brookfield,Worcester County,MA,"508,413"
+1507,Standard,Charlton,Worcester County,MA,"508,774"
+1508,Po Box,Charlton City,Worcester County,MA,
+1509,Po Box,Charlton Depot,Worcester County,MA,
+1510,Standard,Clinton,Worcester County,MA,"978,617"
+1515,Standard,East Brookfield,Worcester County,MA,"508,774"
+1516,Standard,Douglas,Worcester County,MA,"508,774"
+1517,Po Box,East Princeton,Worcester County,MA,
+1518,Standard,Fiskdale,Worcester County,MA,"508,774"
+1519,Standard,Grafton,Worcester County,MA,"508,774"
+1520,Standard,Holden,Worcester County,MA,"508,774"
+1521,Standard,Holland,Hampden County,MA,"413,508"
+1522,Standard,Jefferson,Worcester County,MA,508
+1523,Standard,Lancaster,Worcester County,MA,978
+1524,Standard,Leicester,Worcester County,MA,"508,774"
+1525,Po Box,Linwood,Worcester County,MA,508
+1526,Po Box,Manchaug,Worcester County,MA,508
+1527,Standard,Millbury,Worcester County,MA,"508,774"
+1529,Standard,Millville,Worcester County,MA,508
+1531,Standard,New Braintree,Worcester County,MA,"413,508,774"
+1532,Standard,Northborough,Worcester County,MA,"508,774"
+1534,Standard,Northbridge,Worcester County,MA,508
+1535,Standard,North Brookfield,Worcester County,MA,508
+1536,Standard,North Grafton,Worcester County,MA,508
+1537,Standard,North Oxford,Worcester County,MA,508
+1538,Po Box,North Uxbridge,Worcester County,MA,508
+1540,Standard,Oxford,Worcester County,MA,508
+1541,Standard,Princeton,Worcester County,MA,978
+1542,Standard,Rochdale,Worcester County,MA,508
+1543,Standard,Rutland,Worcester County,MA,"508,774"
+1545,Standard,Shrewsbury,Worcester County,MA,"508,774"
+1546,Unique,Shrewsbury,Worcester County,MA,508
+1550,Standard,Southbridge,Worcester County,MA,"508,774"
+1560,Standard,South Grafton,Worcester County,MA,508
+1561,Po Box,South Lancaster,Worcester County,MA,978
+1562,Standard,Spencer,Worcester County,MA,"508,774"
+1564,Standard,Sterling,Worcester County,MA,978
+1566,Standard,Sturbridge,Worcester County,MA,"508,774"
+1568,Standard,Upton,Worcester County,MA,"508,774"
+1569,Standard,Uxbridge,Worcester County,MA,"508,774"
+1570,Standard,Webster,Worcester County,MA,"508,617,774"
+1571,Standard,Dudley,Worcester County,MA,508
+1580,Unique,Westborough,Worcester County,MA,508
+1581,Standard,Westborough,Worcester County,MA,"508,617,774"
+1582,Unique,Westborough,Worcester County,MA,508
+1583,Standard,West Boylston,Worcester County,MA,"508,978"
+1585,Standard,West Brookfield,Worcester County,MA,"508,413"
+1586,Po Box,West Millbury,Worcester County,MA,
+1588,Standard,Whitinsville,Worcester County,MA,"508,774"
+1590,Standard,Sutton,Worcester County,MA,508
+1601,Po Box,Worcester,Worcester County,MA,508
+1602,Standard,Worcester,Worcester County,MA,508
+1603,Standard,Worcester,Worcester County,MA,508
+1604,Standard,Worcester,Worcester County,MA,508
+1605,Standard,Worcester,Worcester County,MA,508
+1606,Standard,Worcester,Worcester County,MA,508
+1607,Standard,Worcester,Worcester County,MA,508
+1608,Standard,Worcester,Worcester County,MA,"508,774,978"
+1609,Standard,Worcester,Worcester County,MA,"508,774,978"
+1610,Standard,Worcester,Worcester County,MA,"508,774"
+1611,Standard,Cherry Valley,Worcester County,MA,508
+1612,Standard,Paxton,Worcester County,MA,508
+1613,Po Box,Worcester,Worcester County,MA,508
+1614,Po Box,Worcester,Worcester County,MA,508
+1615,Po Box,Worcester,Worcester County,MA,508
+1653,Unique,Worcester,Worcester County,MA,508
+1654,Unique,Worcester,Worcester County,MA,508
+1655,Standard,Worcester,Worcester County,MA,508
+1701,Standard,Framingham,Middlesex County,MA,"508,617,774,781,978"
+1702,Standard,Framingham,Middlesex County,MA,508
+1703,Po Box,Framingham,Middlesex County,MA,508
+1704,Po Box,Framingham,Middlesex County,MA,508
+1705,Po Box,Framingham,Middlesex County,MA,508
+1718,Standard,Village Of Nagog Woods,Middlesex County,MA,978
+1719,Standard,Boxborough,Middlesex County,MA,978
+1720,Standard,Acton,Middlesex County,MA,"978,508,617,781"
+1721,Standard,Ashland,Middlesex County,MA,"508,617"
+1730,Standard,Bedford,Middlesex County,MA,781
+1731,Standard,Hanscom Afb,Middlesex County,MA,781
+1740,Standard,Bolton,Worcester County,MA,978
+1741,Standard,Carlisle,Middlesex County,MA,978
+1742,Standard,Concord,Middlesex County,MA,"508,978"
+1745,Standard,Fayville,Worcester County,MA,508
+1746,Standard,Holliston,Middlesex County,MA,"508,774"
+1747,Standard,Hopedale,Worcester County,MA,508
+1748,Standard,Hopkinton,Middlesex County,MA,"508,774"
+1749,Standard,Hudson,Middlesex County,MA,"508,978"
+1752,Standard,Marlborough,Middlesex County,MA,"508,978,774"
+1754,Standard,Maynard,Middlesex County,MA,978
+1756,Standard,Mendon,Worcester County,MA,508
+1757,Standard,Milford,Worcester County,MA,"508,617,774"
+1760,Standard,Natick,Middlesex County,MA,"508,617"
+1770,Standard,Sherborn,Middlesex County,MA,508
+1772,Standard,Southborough,Worcester County,MA,"508,978"
+1773,Standard,Lincoln,Middlesex County,MA,"978,781"
+1775,Standard,Stow,Middlesex County,MA,978
+1776,Standard,Sudbury,Middlesex County,MA,"508,978"
+1778,Standard,Wayland,Middlesex County,MA,"508,978"
+1784,Po Box,Woodville,Middlesex County,MA,
+1801,Standard,Woburn,Middlesex County,MA,"508,781,978,339,617"
+1803,Standard,Burlington,Middlesex County,MA,"617,781,508,978,339"
+1805,Unique,Burlington,Middlesex County,MA,781
+1806,Unique,Woburn,Middlesex County,MA,339
+1807,Unique,Woburn,Middlesex County,MA,339
+1808,Unique,Woburn,Middlesex County,MA,339
+1810,Standard,Andover,Essex County,MA,"978,617,781"
+1812,Unique,Andover,Essex County,MA,351
+1813,Unique,Woburn,Middlesex County,MA,339
+1815,Unique,Woburn,Middlesex County,MA,339
+1821,Standard,Billerica,Middlesex County,MA,"617,978"
+1822,Po Box,Billerica,Middlesex County,MA,351
+1824,Standard,Chelmsford,Middlesex County,MA,978
+1826,Standard,Dracut,Middlesex County,MA,"978,617"
+1827,Standard,Dunstable,Middlesex County,MA,"978,617"
+1830,Standard,Haverhill,Essex County,MA,978
+1831,Po Box,Haverhill,Essex County,MA,978
+1832,Standard,Haverhill,Essex County,MA,"978,508"
+1833,Standard,Georgetown,Essex County,MA,978
+1834,Standard,Groveland,Essex County,MA,978
+1835,Standard,Haverhill,Essex County,MA,978
+1840,Standard,Lawrence,Essex County,MA,978
+1841,Standard,Lawrence,Essex County,MA,"978,508"
+1842,Po Box,Lawrence,Essex County,MA,351
+1843,Standard,Lawrence,Essex County,MA,"978,508"
+1844,Standard,Methuen,Essex County,MA,"781,978"
+1845,Standard,North Andover,Essex County,MA,978
+1850,Standard,Lowell,Middlesex County,MA,978
+1851,Standard,Lowell,Middlesex County,MA,"508,978,617"
+1852,Standard,Lowell,Middlesex County,MA,"508,978"
+1853,Po Box,Lowell,Middlesex County,MA,351
+1854,Standard,Lowell,Middlesex County,MA,978
+1860,Standard,Merrimac,Essex County,MA,978
+1862,Standard,North Billerica,Middlesex County,MA,"978,617,508"
+1863,Standard,North Chelmsford,Middlesex County,MA,"978,617"
+1864,Standard,North Reading,Middlesex County,MA,978
+1865,Po Box,Nutting Lake,Middlesex County,MA,
+1866,Po Box,Pinehurst,Middlesex County,MA,
+1867,Standard,Reading,Middlesex County,MA,"781,617"
+1876,Standard,Tewksbury,Middlesex County,MA,"978,617"
+1879,Standard,Tyngsboro,Middlesex County,MA,978
+1880,Standard,Wakefield,Middlesex County,MA,"617,781,339"
+1885,Po Box,West Boxford,Essex County,MA,
+1886,Standard,Westford,Middlesex County,MA,"978,508"
+1887,Standard,Wilmington,Middlesex County,MA,"508,978,781,617"
+1888,Po Box,Woburn,Middlesex County,MA,781
+1889,Unique,North Reading,Middlesex County,MA,351
+1890,Standard,Winchester,Middlesex County,MA,"781,978,617"
+1899,Unique,Andover,Essex County,MA,351
+1901,Standard,Lynn,Essex County,MA,781
+1902,Standard,Lynn,Essex County,MA,"617,781,339"
+1903,Po Box,Lynn,Essex County,MA,339
+1904,Standard,Lynn,Essex County,MA,"781,978"
+1905,Standard,Lynn,Essex County,MA,"781,617,339"
+1906,Standard,Saugus,Essex County,MA,"617,781,978,339"
+1907,Standard,Swampscott,Essex County,MA,"781,978"
+1908,Standard,Nahant,Essex County,MA,"781,617"
+1910,Unique,Lynn,Essex County,MA,339
+1913,Standard,Amesbury,Essex County,MA,978
+1915,Standard,Beverly,Essex County,MA,"978,781,508"
+1921,Standard,Boxford,Essex County,MA,"508,978"
+1922,Standard,Byfield,Essex County,MA,"617,978"
+1923,Standard,Danvers,Essex County,MA,"978,617,351"
+1929,Standard,Essex,Essex County,MA,978
+1930,Standard,Gloucester,Essex County,MA,978
+1931,Po Box,Gloucester,Essex County,MA,351
+1936,Po Box,Hamilton,Essex County,MA,978
+1937,Po Box,Hathorne,Essex County,MA,978
+1938,Standard,Ipswich,Essex County,MA,978
+1940,Standard,Lynnfield,Essex County,MA,781
+1944,Standard,Manchester,Essex County,MA,"978,508"
+1945,Standard,Marblehead,Essex County,MA,"781,617"
+1949,Standard,Middleton,Essex County,MA,978
+1950,Standard,Newburyport,Essex County,MA,978
+1951,Standard,Newbury,Essex County,MA,978
+1952,Standard,Salisbury,Essex County,MA,978
+1960,Standard,Peabody,Essex County,MA,"978,508,617"
+1961,Po Box,Peabody,Essex County,MA,508
+1965,Po Box,Prides Crossing,Essex County,MA,
+1966,Standard,Rockport,Essex County,MA,"978,508"
+1969,Standard,Rowley,Essex County,MA,978
+1970,Standard,Salem,Essex County,MA,"978,781,617"
+1971,Po Box,Salem,Essex County,MA,351
+1982,Standard,South Hamilton,Essex County,MA,"508,617,978"
+1983,Standard,Topsfield,Essex County,MA,978
+1984,Standard,Wenham,Essex County,MA,978
+1985,Standard,West Newbury,Essex County,MA,978
+2018,Po Box,Accord,Plymouth County,MA,
+2019,Standard,Bellingham,Norfolk County,MA,"508,774"
+2020,Po Box,Brant Rock,Plymouth County,MA,
+2021,Standard,Canton,Norfolk County,MA,"781,617,339"
+2025,Standard,Cohasset,Norfolk County,MA,"781,617,339"
+2026,Standard,Dedham,Norfolk County,MA,"617,781"
+2027,Po Box,Dedham,Norfolk County,MA,339
+2030,Standard,Dover,Norfolk County,MA,"508,781,774"
+2031,Standard,East Mansfield,Bristol County,MA,508
+2032,Standard,East Walpole,Norfolk County,MA,"508,774,339,781"
+2035,Standard,Foxboro,Norfolk County,MA,"508,781,774"
+2038,Standard,Franklin,Norfolk County,MA,"508,774"
+2040,Po Box,Greenbush,Plymouth County,MA,
+2041,Po Box,Green Harbor,Plymouth County,MA,781
+2043,Standard,Hingham,Plymouth County,MA,"617,781,339"
+2044,Unique,Hingham,Plymouth County,MA,339
+2045,Standard,Hull,Plymouth County,MA,781
+2047,Po Box,Humarock,Plymouth County,MA,781
+2048,Standard,Mansfield,Bristol County,MA,"508,978,781,774"
+2050,Standard,Marshfield,Plymouth County,MA,"781,339"
+2051,Po Box,Marshfield Hills,Plymouth County,MA,
+2052,Standard,Medfield,Norfolk County,MA,"508,617,774"
+2053,Standard,Medway,Norfolk County,MA,"508,774"
+2054,Standard,Millis,Norfolk County,MA,"508,781,774"
+2055,Po Box,Minot,Plymouth County,MA,
+2056,Standard,Norfolk,Norfolk County,MA,508
+2059,Po Box,North Marshfield,Plymouth County,MA,
+2060,Po Box,North Scituate,Plymouth County,MA,
+2061,Standard,Norwell,Plymouth County,MA,"781,339"
+2062,Standard,Norwood,Norfolk County,MA,"617,781,508"
+2065,Po Box,Ocean Bluff,Plymouth County,MA,
+2066,Standard,Scituate,Plymouth County,MA,"617,781,339"
+2067,Standard,Sharon,Norfolk County,MA,"781,339"
+2070,Po Box,Sheldonville,Norfolk County,MA,
+2071,Standard,South Walpole,Norfolk County,MA,"508,774"
+2072,Standard,Stoughton,Norfolk County,MA,"508,781,617"
+2081,Standard,Walpole,Norfolk County,MA,"508,774,781"
+2090,Standard,Westwood,Norfolk County,MA,"781,617,339"
+2093,Standard,Wrentham,Norfolk County,MA,"508,774"
+2108,Standard,Boston,Suffolk County,MA,"617,781,508,857"
+2109,Standard,Boston,Suffolk County,MA,617
+2110,Standard,Boston,Suffolk County,MA,"617,857,508,774,781,000"
+2111,Standard,Boston,Suffolk County,MA,"617,781,978"
+2112,Po Box,Boston,Suffolk County,MA,617
+2113,Standard,Boston,Suffolk County,MA,617
+2114,Standard,Boston,Suffolk County,MA,"508,617,781,857"
+2115,Standard,Boston,Suffolk County,MA,"617,857"
+2116,Standard,Boston,Suffolk County,MA,"617,508,781,978"
+2117,Po Box,Boston,Suffolk County,MA,617
+2118,Standard,Boston,Suffolk County,MA,"617,781,857"
+2119,Standard,Roxbury,Suffolk County,MA,"508,617,978"
+2120,Standard,Roxbury Crossing,Suffolk County,MA,"617,857"
+2121,Standard,Dorchester,Suffolk County,MA,"617,781,857"
+2122,Standard,Dorchester,Suffolk County,MA,"617,781"
+2123,Po Box,Boston,Suffolk County,MA,617
+2124,Standard,Dorchester Center,Suffolk County,MA,617
+2125,Standard,Dorchester,Suffolk County,MA,"617,857"
+2126,Standard,Mattapan,Suffolk County,MA,617
+2127,Standard,Boston,Suffolk County,MA,"508,617,774,781,857"
+2128,Standard,Boston,Suffolk County,MA,"617,857"
+2129,Standard,Charlestown,Suffolk County,MA,"617,781,857"
+2130,Standard,Jamaica Plain,Suffolk County,MA,"617,857"
+2131,Standard,Roslindale,Suffolk County,MA,617
+2132,Standard,West Roxbury,Suffolk County,MA,"617,781"
+2133,Standard,Boston,Suffolk County,MA,"617,508,781,857,978"
+2134,Standard,Allston,Suffolk County,MA,617
+2135,Standard,Brighton,Suffolk County,MA,"617,857"
+2136,Standard,Hyde Park,Suffolk County,MA,"617,857"
+2137,Po Box,Readville,Suffolk County,MA,
+2138,Standard,Cambridge,Middlesex County,MA,"617,978,857"
+2139,Standard,Cambridge,Middlesex County,MA,"617,781,978,857,339"
+2140,Standard,Cambridge,Middlesex County,MA,"617,781,978"
+2141,Standard,Cambridge,Middlesex County,MA,"508,617,978,781,339"
+2142,Standard,Cambridge,Middlesex County,MA,"617,781,508,857,978"
+2143,Standard,Somerville,Middlesex County,MA,617
+2144,Standard,Somerville,Middlesex County,MA,"617,781,857"
+2145,Standard,Somerville,Middlesex County,MA,"617,781,857"
+2148,Standard,Malden,Middlesex County,MA,"617,781,339,857"
+2149,Standard,Everett,Middlesex County,MA,"617,781,857"
+2150,Standard,Chelsea,Suffolk County,MA,"617,857"
+2151,Standard,Revere,Suffolk County,MA,"781,978,339,617"
+2152,Standard,Winthrop,Suffolk County,MA,"617,978,857"
+2153,Po Box,Medford,Middlesex County,MA,339
+2155,Standard,Medford,Middlesex County,MA,"617,781,978,339"
+2156,Po Box,West Medford,Middlesex County,MA,
+2163,Standard,Boston,Suffolk County,MA,"617,339,781,857,978"
+2169,Standard,Quincy,Norfolk County,MA,"508,617,781"
+2170,Standard,Quincy,Norfolk County,MA,"617,857"
+2171,Standard,Quincy,Norfolk County,MA,"617,857"
+2176,Standard,Melrose,Middlesex County,MA,"978,781,339"
+2180,Standard,Stoneham,Middlesex County,MA,"781,617,978"
+2184,Standard,Braintree,Norfolk County,MA,"508,617,781,339"
+2185,Po Box,Braintree,Norfolk County,MA,781
+2186,Standard,Milton,Norfolk County,MA,617
+2187,Po Box,Milton Village,Norfolk County,MA,
+2188,Standard,Weymouth,Norfolk County,MA,"617,781,339"
+2189,Standard,East Weymouth,Norfolk County,MA,781
+2190,Standard,South Weymouth,Norfolk County,MA,"617,781"
+2191,Standard,North Weymouth,Norfolk County,MA,"617,781,339"
+2196,Po Box,Boston,Suffolk County,MA,617
+2199,Standard,Boston,Suffolk County,MA,"617,339,781,857,978"
+2201,Unique,Boston,Suffolk County,MA,617
+2203,Standard,Boston,Suffolk County,MA,617
+2204,Unique,Boston,Suffolk County,MA,617
+2205,Po Box,Boston,Suffolk County,MA,617
+2206,Unique,Boston,Suffolk County,MA,617
+2207,Unique,Boston,Suffolk County,MA,617
+2210,Standard,Boston,Suffolk County,MA,617
+2211,Unique,Boston,Suffolk County,MA,617
+2212,Unique,Boston,Suffolk County,MA,617
+2215,Standard,Boston,Suffolk County,MA,617
+2216,Unique,Boston,Suffolk County,MA,617
+2217,Unique,Boston,Suffolk County,MA,617
+2222,Standard,Boston,Suffolk County,MA,"617,857"
+2228,Po Box,East Boston,Suffolk County,MA,
+2238,Po Box,Cambridge,Middlesex County,MA,617
+2239,Unique,Cambridge,Middlesex County,MA,617
+2241,Unique,Boston,Suffolk County,MA,617
+2266,Unique,Boston,Suffolk County,MA,617
+2269,Po Box,Quincy,Norfolk County,MA,617
+2283,Standard,Boston,Suffolk County,MA,"617,781,978"
+2284,Standard,Boston,Suffolk County,MA,"508,617,781,857,978"
+2293,Unique,Boston,Suffolk County,MA,617
+2295,Unique,Boston,Suffolk County,MA,617
+2297,Unique,Boston,Suffolk County,MA,617
+2298,Po Box,Boston,Suffolk County,MA,617
+2301,Standard,Brockton,Plymouth County,MA,"508,617,774"
+2302,Standard,Brockton,Plymouth County,MA,"508,617,774"
+2303,Po Box,Brockton,Plymouth County,MA,508
+2304,Po Box,Brockton,Plymouth County,MA,508
+2305,Po Box,Brockton,Plymouth County,MA,508
+2322,Standard,Avon,Norfolk County,MA,508
+2324,Standard,Bridgewater,Plymouth County,MA,"508,774"
+2325,Unique,Bridgewater,Plymouth County,MA,508
+2327,Po Box,Bryantville,Plymouth County,MA,
+2330,Standard,Carver,Plymouth County,MA,"508,774"
+2331,Po Box,Duxbury,Plymouth County,MA,339
+2332,Standard,Duxbury,Plymouth County,MA,"781,617"
+2333,Standard,East Bridgewater,Plymouth County,MA,"508,774"
+2334,Po Box,Easton,Bristol County,MA,508
+2337,Po Box,Elmwood,Plymouth County,MA,
+2338,Standard,Halifax,Plymouth County,MA,"781,339"
+2339,Standard,Hanover,Plymouth County,MA,"617,781"
+2340,Unique,Hanover,Plymouth County,MA,339
+2341,Standard,Hanson,Plymouth County,MA,781
+2343,Standard,Holbrook,Norfolk County,MA,781
+2344,Unique,Middleboro,Plymouth County,MA,508
+2345,Po Box,Manomet,Plymouth County,MA,508
+2346,Standard,Middleboro,Plymouth County,MA,"508,774"
+2347,Standard,Lakeville,Plymouth County,MA,"781,508"
+2348,Unique,Lakeville,Plymouth County,MA,508
+2349,Unique,Middleboro,Plymouth County,MA,508
+2350,Po Box,Monponsett,Plymouth County,MA,
+2351,Standard,Abington,Plymouth County,MA,781
+2355,Po Box,North Carver,Plymouth County,MA,508
+2356,Standard,North Easton,Bristol County,MA,508
+2357,Unique,North Easton,Bristol County,MA,508
+2358,Po Box,North Pembroke,Plymouth County,MA,
+2359,Standard,Pembroke,Plymouth County,MA,"781,339"
+2360,Standard,Plymouth,Plymouth County,MA,"508,617,774"
+2361,Po Box,Plymouth,Plymouth County,MA,508
+2362,Po Box,Plymouth,Plymouth County,MA,617
+2364,Standard,Kingston,Plymouth County,MA,"781,339,617"
+2366,Po Box,South Carver,Plymouth County,MA,508
+2367,Standard,Plympton,Plymouth County,MA,"508,781"
+2368,Standard,Randolph,Norfolk County,MA,"617,781,339"
+2370,Standard,Rockland,Plymouth County,MA,"781,339"
+2375,Standard,South Easton,Bristol County,MA,"508,781,774"
+2379,Standard,West Bridgewater,Plymouth County,MA,"508,781"
+2381,Po Box,White Horse Beach,Plymouth County,MA,508
+2382,Standard,Whitman,Plymouth County,MA,781
+2420,Standard,Lexington,Middlesex County,MA,"781,617,339"
+2421,Standard,Lexington,Middlesex County,MA,"617,781"
+2445,Standard,Brookline,Norfolk County,MA,"617,857"
+2446,Standard,Brookline,Norfolk County,MA,"617,857"
+2447,Po Box,Brookline Village,Norfolk County,MA,
+2451,Standard,Waltham,Middlesex County,MA,"781,617,508,339"
+2452,Standard,Waltham,Middlesex County,MA,"781,617,339,774,978"
+2453,Standard,Waltham,Middlesex County,MA,"781,617,508,774,978"
+2454,Po Box,Waltham,Middlesex County,MA,339
+2455,Po Box,North Waltham,Middlesex County,MA,
+2456,Po Box,New Town,Middlesex County,MA,617
+2457,Po Box,Babson Park,Norfolk County,MA,
+2458,Standard,Newton,Middlesex County,MA,"617,781,857"
+2459,Standard,Newton Center,Middlesex County,MA,"617,781,508"
+2460,Standard,Newtonville,Middlesex County,MA,"617,781,857"
+2461,Standard,Newton Highlands,Middlesex County,MA,"617,781"
+2462,Standard,Newton Lower Falls,Middlesex County,MA,617
+2464,Standard,Newton Upper Falls,Middlesex County,MA,617
+2465,Standard,West Newton,Middlesex County,MA,"781,617,857"
+2466,Standard,Auburndale,Middlesex County,MA,"617,781"
+2467,Standard,Chestnut Hill,Norfolk County,MA,"781,617,857"
+2468,Standard,Waban,Middlesex County,MA,"781,617"
+2471,Po Box,Watertown,Middlesex County,MA,"617,781"
+2472,Standard,Watertown,Middlesex County,MA,"617,781,978,857"
+2474,Standard,Arlington,Middlesex County,MA,"781,617"
+2475,Po Box,Arlington Heights,Middlesex County,MA,
+2476,Standard,Arlington,Middlesex County,MA,"617,781,339"
+2477,Unique,Watertown,Middlesex County,MA,617
+2478,Standard,Belmont,Middlesex County,MA,"617,781,857"
+2479,Po Box,Waverley,Middlesex County,MA,
+2481,Standard,Wellesley Hills,Norfolk County,MA,"781,617,508,774"
+2482,Standard,Wellesley,Norfolk County,MA,"508,617,781,339,774"
+2492,Standard,Needham,Norfolk County,MA,"781,774,857"
+2493,Standard,Weston,Middlesex County,MA,"781,617"
+2494,Standard,Needham Heights,Norfolk County,MA,"781,617,339"
+2495,Po Box,Nonantum,Middlesex County,MA,
+2532,Standard,Buzzards Bay,Barnstable County,MA,"508,774"
+2534,Po Box,Cataumet,Barnstable County,MA,508
+2535,Standard,Chilmark,Dukes County,MA,508
+2536,Standard,East Falmouth,Barnstable County,MA,508
+2537,Standard,East Sandwich,Barnstable County,MA,508
+2538,Standard,East Wareham,Plymouth County,MA,508
+2539,Standard,Edgartown,Dukes County,MA,"508,774"
+2540,Standard,Falmouth,Barnstable County,MA,"978,508"
+2541,Po Box,Falmouth,Barnstable County,MA,508
+2542,Standard,Buzzards Bay,Barnstable County,MA,"508,774"
+2543,Standard,Woods Hole,Barnstable County,MA,"508,774"
+2552,Po Box,Menemsha,Dukes County,MA,508
+2553,Po Box,Monument Beach,Barnstable County,MA,508
+2554,Standard,Nantucket,Nantucket County,MA,"508,774"
+2556,Standard,North Falmouth,Barnstable County,MA,508
+2557,Standard,Oak Bluffs,Dukes County,MA,508
+2558,Po Box,Onset,Plymouth County,MA,508
+2559,Standard,Pocasset,Barnstable County,MA,"508,774"
+2561,Po Box,Sagamore,Barnstable County,MA,508
+2562,Standard,Sagamore Beach,Barnstable County,MA,508
+2563,Standard,Sandwich,Barnstable County,MA,"508,774"
+2564,Po Box,Siasconset,Nantucket County,MA,508
+2565,Po Box,Silver Beach,Barnstable County,MA,508
+2568,Standard,Vineyard Haven,Dukes County,MA,"508,774"
+2571,Standard,Wareham,Plymouth County,MA,"508,774"
+2573,Po Box,West Chop,Dukes County,MA,
+2574,Po Box,West Falmouth,Barnstable County,MA,508
+2575,Po Box,West Tisbury,Dukes County,MA,508
+2576,Standard,West Wareham,Plymouth County,MA,508
+2584,Po Box,Nantucket,Nantucket County,MA,508
+2601,Standard,Hyannis,Barnstable County,MA,"508,774"
+2630,Standard,Barnstable,Barnstable County,MA,"508,774"
+2631,Standard,Brewster,Barnstable County,MA,"508,774"
+2632,Standard,Centerville,Barnstable County,MA,"508,774"
+2633,Standard,Chatham,Barnstable County,MA,"508,774"
+2634,Po Box,Centerville,Barnstable County,MA,508
+2635,Standard,Cotuit,Barnstable County,MA,508
+2636,Standard,Centerville,Barnstable County,MA,508
+2637,Po Box,Cummaquid,Barnstable County,MA,508
+2638,Standard,Dennis,Barnstable County,MA,"508,774"
+2639,Standard,Dennis Port,Barnstable County,MA,508
+2641,Po Box,East Dennis,Barnstable County,MA,508
+2642,Standard,Eastham,Barnstable County,MA,508
+2643,Po Box,East Orleans,Barnstable County,MA,508
+2644,Standard,Forestdale,Barnstable County,MA,508
+2645,Standard,Harwich,Barnstable County,MA,"508,774"
+2646,Standard,Harwich Port,Barnstable County,MA,508
+2647,Po Box,Hyannis Port,Barnstable County,MA,508
+2648,Standard,Marstons Mills,Barnstable County,MA,508
+2649,Standard,Mashpee,Barnstable County,MA,508
+2650,Standard,North Chatham,Barnstable County,MA,508
+2651,Po Box,North Eastham,Barnstable County,MA,508
+2652,Po Box,North Truro,Barnstable County,MA,508
+2653,Standard,Orleans,Barnstable County,MA,"508,774"
+2655,Standard,Osterville,Barnstable County,MA,"508,774"
+2657,Standard,Provincetown,Barnstable County,MA,"508,774"
+2659,Standard,South Chatham,Barnstable County,MA,508
+2660,Standard,South Dennis,Barnstable County,MA,508
+2661,Po Box,South Harwich,Barnstable County,MA,508
+2662,Po Box,South Orleans,Barnstable County,MA,508
+2663,Po Box,South Wellfleet,Barnstable County,MA,508
+2664,Standard,South Yarmouth,Barnstable County,MA,508
+2666,Po Box,Truro,Barnstable County,MA,508
+2667,Standard,Wellfleet,Barnstable County,MA,"508,774"
+2668,Standard,West Barnstable,Barnstable County,MA,508
+2669,Po Box,West Chatham,Barnstable County,MA,508
+2670,Standard,West Dennis,Barnstable County,MA,508
+2671,Standard,West Harwich,Barnstable County,MA,508
+2672,Po Box,West Hyannisport,Barnstable County,MA,508
+2673,Standard,West Yarmouth,Barnstable County,MA,"508,774"
+2675,Standard,Yarmouth Port,Barnstable County,MA,508
+2702,Standard,Assonet,Bristol County,MA,"508,774"
+2703,Standard,Attleboro,Bristol County,MA,"401,508,617,774"
+2712,Po Box,Chartley,Bristol County,MA,508
+2713,Po Box,Cuttyhunk,Dukes County,MA,
+2714,Po Box,Dartmouth,Bristol County,MA,508
+2715,Standard,Dighton,Bristol County,MA,"508,774"
+2717,Standard,East Freetown,Bristol County,MA,508
+2718,Standard,East Taunton,Bristol County,MA,"508,774"
+2719,Standard,Fairhaven,Bristol County,MA,508
+2720,Standard,Fall River,Bristol County,MA,"508,774"
+2721,Standard,Fall River,Bristol County,MA,"508,774"
+2722,Po Box,Fall River,Bristol County,MA,508
+2723,Standard,Fall River,Bristol County,MA,"508,774"
+2724,Standard,Fall River,Bristol County,MA,508
+2725,Standard,Somerset,Bristol County,MA,508
+2726,Standard,Somerset,Bristol County,MA,508
+2738,Standard,Marion,Plymouth County,MA,"508,774"
+2739,Standard,Mattapoisett,Plymouth County,MA,"508,617,774"
+2740,Standard,New Bedford,Bristol County,MA,"508,774"
+2741,Po Box,New Bedford,Bristol County,MA,508
+2742,Po Box,New Bedford,Bristol County,MA,508
+2743,Standard,Acushnet,Bristol County,MA,508
+2744,Standard,New Bedford,Bristol County,MA,"508,774"
+2745,Standard,New Bedford,Bristol County,MA,508
+2746,Standard,New Bedford,Bristol County,MA,"508,774"
+2747,Standard,North Dartmouth,Bristol County,MA,508
+2748,Standard,South Dartmouth,Bristol County,MA,508
+2760,Standard,North Attleboro,Bristol County,MA,"508,978,774"
+2761,Po Box,North Attleboro,Bristol County,MA,508
+2762,Standard,Plainville,Norfolk County,MA,508
+2763,Standard,Attleboro Falls,Bristol County,MA,"508,774"
+2764,Standard,North Dighton,Bristol County,MA,"857,508"
+2766,Standard,Norton,Bristol County,MA,"508,774"
+2767,Standard,Raynham,Bristol County,MA,508
+2768,Po Box,Raynham Center,Bristol County,MA,508
+2769,Standard,Rehoboth,Bristol County,MA,"508,774"
+2770,Standard,Rochester,Plymouth County,MA,"508,774"
+2771,Standard,Seekonk,Bristol County,MA,"508,617,774"
+2777,Standard,Swansea,Bristol County,MA,508
+2779,Standard,Berkley,Bristol County,MA,"781,508"
+2780,Standard,Taunton,Bristol County,MA,508
+2783,Unique,Taunton,Bristol County,MA,508
+2790,Standard,Westport,Bristol County,MA,"508,774"
+2791,Po Box,Westport Point,Bristol County,MA,508
+5501,Unique,Andover,Essex County,MA,351
+5544,Unique,Andover,Essex County,MA,351
