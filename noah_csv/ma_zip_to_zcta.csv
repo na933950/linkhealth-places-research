@@ -1,0 +1,682 @@
+,Zip Code,City,ZCTA
+194,1001,Agawam,1001
+195,1002,Amherst,1002
+196,1003,Amherst,1003
+197,1004,Amherst,1002
+198,1005,Barre,1005
+199,1007,Belchertown,1007
+200,1008,Blandford,1008
+201,1009,Bondsville,1009
+202,1010,Brimfield,1010
+203,1011,Chester,1011
+204,1012,Chesterfield,1012
+205,1013,Chicopee,1013
+206,1014,Chicopee,1013
+207,1020,Chicopee,1020
+208,1021,Chicopee,1020
+209,1022,Chicopee,1022
+210,1026,Cummington,1026
+211,1027,Easthampton,1027
+212,1028,East Longmeadow,1028
+213,1029,East Otis,1029
+214,1030,Feeding Hills,1030
+215,1031,Gilbertville,1031
+216,1032,Goshen,1032
+217,1033,Granby,1033
+218,1034,Granville,1034
+219,1035,Hadley,1035
+220,1036,Hampden,1036
+221,1037,Hardwick,1037
+222,1038,Hatfield,1038
+223,1039,Haydenville,1039
+224,1040,Holyoke,1040
+225,1041,Holyoke,1040
+226,1050,Huntington,1050
+227,1053,Leeds,1053
+228,1054,Leverett,1054
+229,1056,Ludlow,1056
+230,1057,Monson,1057
+231,1059,North Amherst,1002
+232,1060,Northampton,1060
+233,1061,Northampton,1060
+234,1062,Florence,1062
+235,1063,Northampton,1063
+236,1066,North Hatfield,1066
+237,1068,Oakham,1068
+238,1069,Palmer,1069
+239,1070,Plainfield,1070
+240,1071,Russell,1071
+241,1072,Shutesbury,1072
+242,1073,Southampton,1073
+243,1074,South Barre,1074
+244,1075,South Hadley,1075
+245,1077,Southwick,1077
+246,1079,Thorndike,1079
+247,1080,Three Rivers,1080
+248,1081,Wales,1081
+249,1082,Ware,1082
+250,1083,Warren,1083
+251,1084,West Chesterfield,1084
+252,1085,Westfield,1085
+253,1086,Westfield,1086
+254,1088,West Hatfield,1088
+255,1089,West Springfield,1089
+256,1090,West Springfield,1089
+257,1092,West Warren,1092
+258,1093,Whately,1093
+259,1094,Wheelwright,1094
+260,1095,Wilbraham,1095
+261,1096,Williamsburg,1096
+262,1097,Woronoco,1097
+263,1098,Worthington,1098
+264,1101,Springfield,1104
+265,1102,Springfield,1104
+266,1103,Springfield,1103
+267,1104,Springfield,1104
+268,1105,Springfield,1105
+269,1106,Longmeadow,1106
+270,1107,Springfield,1107
+271,1108,Springfield,1108
+272,1109,Springfield,1109
+273,1111,Springfield,1109
+274,1115,Springfield,1103
+275,1116,Longmeadow,1106
+276,1118,Springfield,1118
+277,1119,Springfield,1119
+278,1128,Springfield,1128
+279,1129,Springfield,1129
+280,1138,Springfield,1108
+281,1139,Springfield,1109
+282,1144,Springfield,1103
+283,1151,Indian Orchard,1151
+284,1152,Springfield,1151
+285,1199,Springfield,1199
+286,1201,Pittsfield,1201
+287,1202,Pittsfield,1201
+288,1203,Pittsfield,1201
+289,1220,Adams,1220
+290,1222,Ashley Falls,1222
+291,1223,Becket,1223
+292,1224,Berkshire,1224
+293,1225,Cheshire,1225
+294,1226,Dalton,1226
+295,1227,Dalton,1226
+296,1229,Glendale,1229
+297,1230,Great Barrington,1230
+298,1235,Hinsdale,1235
+299,1236,Housatonic,1236
+300,1237,Lanesborough,1237
+301,1238,Lee,1238
+302,1240,Lenox,1240
+303,1242,Lenox Dale,1242
+304,1243,Middlefield,1243
+305,1244,Mill River,1244
+306,1245,Monterey,1245
+307,1247,North Adams,1247
+308,1252,North Egremont,1230
+309,1253,Otis,1253
+310,1254,Richmond,1254
+311,1255,Sandisfield,1255
+312,1256,Savoy,1256
+313,1257,Sheffield,1257
+314,1258,South Egremont,1258
+315,1259,Southfield,1259
+316,1260,South Lee,1260
+317,1262,Stockbridge,1262
+318,1263,Stockbridge,1262
+319,1264,Tyringham,1264
+320,1266,West Stockbridge,1266
+321,1267,Williamstown,1267
+322,1270,Windsor,1270
+323,1301,Greenfield,1301
+324,1302,Greenfield,1301
+325,1330,Ashfield,1330
+326,1331,Athol,1331
+327,1337,Bernardston,1337
+328,1338,Buckland,1338
+329,1339,Charlemont,1339
+330,1340,Colrain,1340
+331,1341,Conway,1341
+332,1342,Deerfield,1342
+333,1343,Drury,1343
+334,1344,Erving,1344
+335,1346,Heath,1346
+336,1347,Lake Pleasant,1347
+337,1349,Millers Falls,1349
+338,1350,Monroe Bridge,1350
+339,1351,Montague,1351
+340,1354,Gill,1354
+341,1355,New Salem,1355
+342,1360,Northfield,1360
+343,1364,Orange,1364
+344,1366,Petersham,1366
+345,1367,Rowe,1367
+346,1368,Royalston,1368
+347,1370,Shelburne Falls,1370
+348,1373,South Deerfield,1373
+349,1375,Sunderland,1375
+350,1376,Turners Falls,1376
+351,1378,Warwick,1378
+352,1379,Wendell,1379
+353,1380,Wendell Depot,1379
+354,1420,Fitchburg,1420
+355,1430,Ashburnham,1430
+356,1431,Ashby,1431
+357,1432,Ayer,1432
+358,1434,Devens,1434
+359,1436,Baldwinville,1436
+360,1438,East Templeton,1438
+361,1440,Gardner,1440
+362,1441,Westminster,1473
+363,1450,Groton,1450
+364,1451,Harvard,1451
+365,1452,Hubbardston,1452
+366,1453,Leominster,1453
+367,1460,Littleton,1460
+368,1462,Lunenburg,1462
+369,1463,Pepperell,1463
+370,1464,Shirley,1464
+371,1467,Still River,1467
+372,1468,Templeton,1468
+373,1469,Townsend,1469
+374,1470,Groton,1450
+375,1471,Groton,1450
+376,1472,West Groton,1450
+377,1473,Westminster,1473
+378,1474,West Townsend,1474
+379,1475,Winchendon,1475
+380,1501,Auburn,1501
+381,1503,Berlin,1503
+382,1504,Blackstone,1504
+383,1505,Boylston,1505
+384,1506,Brookfield,1506
+385,1507,Charlton,1507
+386,1508,Charlton City,1507
+387,1509,Charlton Depot,1507
+388,1510,Clinton,1510
+389,1515,East Brookfield,1515
+390,1516,Douglas,1516
+391,1518,Fiskdale,1518
+392,1519,Grafton,1519
+393,1520,Holden,1520
+394,1521,Holland,1521
+395,1522,Jefferson,1522
+396,1523,Lancaster,1523
+397,1524,Leicester,1524
+398,1525,Linwood,1525
+399,1526,Manchaug,1590
+400,1527,Millbury,1527
+401,1529,Millville,1529
+402,1531,New Braintree,1531
+403,1532,Northborough,1532
+404,1534,Northbridge,1534
+405,1535,North Brookfield,1535
+406,1536,North Grafton,1536
+407,1537,North Oxford,1537
+408,1538,North Uxbridge,1569
+409,1540,Oxford,1540
+410,1541,Princeton,1541
+411,1542,Rochdale,1542
+412,1543,Rutland,1543
+413,1545,Shrewsbury,1545
+414,1546,Shrewsbury,1545
+415,1550,Southbridge,1550
+416,1560,South Grafton,1560
+417,1561,South Lancaster,1561
+418,1562,Spencer,1562
+419,1564,Sterling,1564
+420,1566,Sturbridge,1566
+421,1568,Upton,1568
+422,1569,Uxbridge,1569
+423,1570,Webster,1570
+424,1571,Dudley,1571
+425,1581,Westborough,1581
+426,1583,West Boylston,1583
+427,1585,West Brookfield,1585
+428,1586,West Millbury,1527
+429,1588,Whitinsville,1588
+430,1590,Sutton,1590
+431,1601,Worcester,1608
+432,1602,Worcester,1602
+433,1603,Worcester,1603
+434,1604,Worcester,1604
+435,1605,Worcester,1605
+436,1606,Worcester,1606
+437,1607,Worcester,1607
+438,1608,Worcester,1608
+439,1609,Worcester,1609
+440,1610,Worcester,1610
+441,1611,Cherry Valley,1611
+442,1612,Paxton,1612
+443,1613,Worcester,1605
+444,1614,Worcester,1608
+445,1615,Worcester,1605
+446,1653,Worcester,1605
+447,1655,Worcester,1605
+448,1701,Framingham,1701
+449,1702,Framingham,1702
+450,1703,Framingham,1701
+451,1704,Framingham,1702
+452,1705,Framingham,1701
+453,1718,Acton,1718
+454,1719,Boxborough,1719
+455,1720,Acton,1720
+456,1721,Ashland,1721
+457,1730,Bedford,1730
+458,1731,Hanscom AFB,1731
+459,1740,Bolton,1740
+460,1741,Carlisle,1741
+461,1742,Concord,1742
+462,1745,Fayville,1745
+463,1746,Holliston,1746
+464,1747,Hopedale,1747
+465,1748,Hopkinton,1748
+466,1749,Hudson,1749
+467,1752,Marlborough,1752
+468,1754,Maynard,1754
+469,1756,Mendon,1756
+470,1757,Milford,1757
+471,1760,Natick,1760
+472,1770,Sherborn,1770
+473,1772,Southborough,1772
+474,1773,Lincoln,1773
+475,1775,Stow,1775
+476,1776,Sudbury,1776
+477,1778,Wayland,1778
+478,1784,Woodville,1748
+479,1801,Woburn,1801
+480,1803,Burlington,1803
+481,1805,Burlington,1803
+482,1810,Andover,1810
+483,1812,Andover,1810
+484,1813,Woburn,1801
+485,1815,Woburn,1801
+486,1821,Billerica,1821
+487,1822,Billerica,1821
+488,1824,Chelmsford,1824
+489,1826,Dracut,1826
+490,1827,Dunstable,1827
+491,1830,Haverhill,1830
+492,1831,Haverhill,1830
+493,1832,Haverhill,1832
+494,1833,Georgetown,1833
+495,1834,Groveland,1834
+496,1835,Haverhill,1835
+497,1840,Lawrence,1840
+498,1841,Lawrence,1841
+499,1842,Lawrence,1840
+500,1843,Lawrence,1843
+501,1844,Methuen,1844
+502,1845,North Andover,1845
+503,1850,Lowell,1850
+504,1851,Lowell,1851
+505,1852,Lowell,1852
+506,1853,Lowell,1852
+507,1854,Lowell,1854
+508,1860,Merrimac,1860
+509,1862,North Billerica,1862
+510,1863,North Chelmsford,1863
+511,1864,North Reading,1864
+512,1865,Nutting Lake,1821
+513,1866,Pinehurst,1821
+514,1867,Reading,1867
+515,1876,Tewksbury,1876
+516,1879,Tyngsboro,1879
+517,1880,Wakefield,1880
+518,1885,West Boxford,1921
+519,1886,Westford,1886
+520,1887,Wilmington,1887
+521,1888,Woburn,1801
+522,1889,North Reading,1864
+523,1890,Winchester,1890
+524,1899,Andover,1810
+525,1901,Lynn,1901
+526,1902,Lynn,1902
+527,1903,Lynn,1902
+528,1904,Lynn,1904
+529,1905,Lynn,1905
+530,1906,Saugus,1906
+531,1907,Swampscott,1907
+532,1908,Nahant,1908
+533,1910,Lynn,1905
+534,1913,Amesbury,1913
+535,1915,Beverly,1915
+536,1921,Boxford,1921
+537,1922,Byfield,1922
+538,1923,Danvers,1923
+539,1929,Essex,1929
+540,1930,Gloucester,1930
+541,1931,Gloucester,1930
+542,1936,Hamilton,1982
+543,1937,Hathorne,1937
+544,1938,Ipswich,1938
+545,1940,Lynnfield,1940
+546,1944,Manchester,1944
+547,1945,Marblehead,1945
+548,1949,Middleton,1949
+549,1950,Newburyport,1950
+550,1951,Newbury,1951
+551,1952,Salisbury,1952
+552,1960,Peabody,1960
+553,1961,Peabody,1960
+554,1965,Prides Crossing,1915
+555,1966,Rockport,1966
+556,1969,Rowley,1969
+557,1970,Salem,1970
+558,1971,Salem,1970
+559,1982,South Hamilton,1982
+560,1983,Topsfield,1983
+561,1984,Wenham,1984
+562,1985,West Newbury,1985
+563,2018,Accord,2043
+564,2019,Bellingham,2019
+565,2020,Brant Rock,2050
+566,2021,Canton,2021
+567,2025,Cohasset,2025
+568,2026,Dedham,2026
+569,2027,Dedham,2026
+570,2030,Dover,2030
+571,2032,East Walpole,2032
+572,2035,Foxboro,2035
+573,2038,Franklin,2038
+574,2040,Greenbush,2066
+575,2041,Green Harbor,2050
+576,2043,Hingham,2043
+577,2044,Hingham,2043
+578,2045,Hull,2045
+579,2047,Humarock,2047
+580,2048,Mansfield,2048
+581,2050,Marshfield,2050
+582,2051,Marshfield Hills,2050
+583,2052,Medfield,2052
+584,2053,Medway,2053
+585,2054,Millis,2054
+586,2055,Minot,2066
+587,2056,Norfolk,2056
+588,2059,North Marshfield,2050
+589,2060,North Scituate,2066
+590,2061,Norwell,2061
+591,2062,Norwood,2062
+592,2065,Ocean Bluff,2050
+593,2066,Scituate,2066
+594,2067,Sharon,2067
+595,2070,Sheldonville,2093
+596,2071,South Walpole,2071
+597,2072,Stoughton,2072
+598,2081,Walpole,2081
+599,2090,Westwood,2090
+600,2093,Wrentham,2093
+601,2108,Boston,2108
+602,2109,Boston,2109
+603,2110,Boston,2110
+604,2111,Boston,2111
+605,2112,Boston,2111
+606,2113,Boston,2113
+607,2114,Boston,2114
+608,2115,Boston,2115
+609,2116,Boston,2116
+610,2117,Boston,2116
+611,2118,Boston,2118
+612,2119,Roxbury,2119
+613,2120,Roxbury Crossing,2120
+614,2121,Dorchester,2121
+615,2122,Dorchester,2122
+616,2123,Boston,2115
+617,2124,Dorchester Center,2124
+618,2125,Dorchester,2125
+619,2126,Mattapan,2126
+620,2127,South Boston,2127
+621,2128,East Boston,2128
+622,2129,Charlestown,2129
+623,2130,Jamaica Plain,2130
+624,2131,Roslindale,2131
+625,2132,West Roxbury,2132
+626,2133,Boston,2108
+627,2134,Allston,2134
+628,2135,Brighton,2135
+629,2136,Hyde Park,2136
+630,2137,Readville,2136
+631,2138,Cambridge,2138
+632,2139,Cambridge,2139
+633,2140,Cambridge,2140
+634,2141,Cambridge,2141
+635,2142,Cambridge,2142
+636,2143,Somerville,2143
+637,2144,Somerville,2144
+638,2145,Somerville,2145
+639,2148,Malden,2148
+640,2149,Everett,2149
+641,2150,Chelsea,2150
+642,2151,Revere,2151
+643,2152,Winthrop,2152
+644,2153,Medford,2155
+645,2155,Medford,2155
+646,2156,West Medford,2155
+647,2163,Boston,2163
+648,2169,Quincy,2169
+649,2170,Quincy,2170
+650,2171,Quincy,2171
+651,2176,Melrose,2176
+652,2180,Stoneham,2180
+653,2184,Braintree,2184
+654,2185,Braintree,2184
+655,2186,Milton,2186
+656,2187,Milton Village,2186
+657,2188,Weymouth,2188
+658,2189,East Weymouth,2189
+659,2190,South Weymouth,2190
+660,2191,North Weymouth,2191
+661,2196,Boston,2110
+662,2199,Boston,2199
+663,2201,Boston,2203
+664,2203,Boston,2203
+665,2204,Boston,2150
+666,2205,Boston,2111
+667,2206,Boston,2150
+668,2210,Boston,2210
+669,2211,Boston,2109
+670,2212,Boston,2109
+671,2215,Boston,2215
+672,2217,Boston,2116
+673,2222,Boston,2114
+674,2238,Cambridge,2138
+675,2241,Boston,2110
+676,2266,Boston,2111
+677,2269,Quincy,2169
+678,2283,Boston,2111
+679,2284,Boston,2111
+680,2293,Boston,2111
+681,2297,Boston,2111
+682,2298,Boston,2111
+683,2301,Brockton,2301
+684,2302,Brockton,2302
+685,2303,Brockton,2302
+686,2304,Brockton,2301
+687,2305,Brockton,2301
+688,2322,Avon,2322
+689,2324,Bridgewater,2324
+690,2325,Bridgewater,2324
+691,2327,Bryantville,2359
+692,2330,Carver,2330
+693,2331,Duxbury,2332
+694,2332,Duxbury,2332
+695,2333,East Bridgewater,2333
+696,2334,Easton,2356
+697,2337,Elmwood,2333
+698,2338,Halifax,2338
+699,2339,Hanover,2339
+700,2341,Hanson,2341
+701,2343,Holbrook,2343
+702,2344,Middleboro,2346
+703,2345,Manomet,2360
+704,2346,Middleboro,2346
+705,2347,Lakeville,2347
+706,2348,Lakeville,2347
+707,2349,Middleboro,2347
+708,2350,Monponsett,2341
+709,2351,Abington,2351
+710,2355,North Carver,2330
+711,2356,North Easton,2356
+712,2357,North Easton,2357
+713,2358,North Pembroke,2359
+714,2359,Pembroke,2359
+715,2360,Plymouth,2360
+716,2361,Plymouth,2360
+717,2362,Plymouth,2360
+718,2364,Kingston,2364
+719,2366,South Carver,2366
+720,2367,Plympton,2367
+721,2368,Randolph,2368
+722,2370,Rockland,2370
+723,2375,South Easton,2375
+724,2379,West Bridgewater,2379
+725,2381,White Horse Beach,2360
+726,2382,Whitman,2382
+727,2420,Lexington,2420
+728,2421,Lexington,2421
+729,2445,Brookline,2445
+730,2446,Brookline,2446
+731,2447,Brookline Village,2445
+732,2451,Waltham,2451
+733,2452,Waltham,2452
+734,2453,Waltham,2453
+735,2454,Waltham,2453
+736,2455,North Waltham,2451
+737,2456,New Town,2472
+738,2457,Babson Park,2457
+739,2458,Newton,2458
+740,2459,Newton Center,2459
+741,2460,Newtonville,2460
+742,2461,Newton Highlands,2461
+743,2462,Newton Lower Falls,2462
+744,2464,Newton Upper Falls,2464
+745,2465,West Newton,2465
+746,2466,Auburndale,2466
+747,2467,Chestnut Hill,2467
+748,2468,Waban,2468
+749,2471,Watertown,2472
+750,2472,Watertown,2472
+751,2474,Arlington,2474
+752,2475,Arlington Heights,2476
+753,2476,Arlington,2476
+754,2477,Watertown,2472
+755,2478,Belmont,2478
+756,2479,Waverley,2478
+757,2481,Wellesley Hills,2481
+758,2482,Wellesley,2482
+759,2492,Needham,2492
+760,2493,Weston,2493
+761,2494,Needham Heights,2494
+762,2495,Nonantum,2458
+763,2532,Buzzards Bay,2532
+764,2534,Cataumet,2534
+765,2535,Chilmark,2535
+766,2536,East Falmouth,2536
+767,2537,East Sandwich,2537
+768,2538,East Wareham,2538
+769,2539,Edgartown,2539
+770,2540,Falmouth,2540
+771,2541,Falmouth,2540
+772,2542,Buzzards Bay,2542
+773,2543,Woods Hole,2543
+774,2552,Menemsha,2535
+775,2553,Monument Beach,2553
+776,2554,Nantucket,2554
+777,2556,North Falmouth,2556
+778,2557,Oak Bluffs,2557
+779,2558,Onset,2558
+780,2559,Pocasset,2559
+781,2561,Sagamore,2561
+782,2562,Sagamore Beach,2562
+783,2563,Sandwich,2563
+784,2564,Siasconset,2564
+785,2568,Vineyard Haven,2568
+786,2571,Wareham,2571
+787,2574,West Falmouth,2540
+788,2575,West Tisbury,2575
+789,2576,West Wareham,2576
+790,2584,Nantucket,2584
+791,2601,Hyannis,2601
+792,2630,Barnstable,2630
+793,2631,Brewster,2631
+794,2632,Centerville,2632
+795,2633,Chatham,2633
+796,2634,Centerville,2632
+797,2635,Cotuit,2635
+798,2637,Cummaquid,2637
+799,2638,Dennis,2638
+800,2639,Dennis Port,2639
+801,2641,East Dennis,2641
+802,2642,Eastham,2642
+803,2643,East Orleans,2643
+804,2644,Forestdale,2644
+805,2645,Harwich,2645
+806,2646,Harwich Port,2646
+807,2647,Hyannis Port,2647
+808,2648,Marstons Mills,2648
+809,2649,Mashpee,2649
+810,2650,North Chatham,2650
+811,2651,North Eastham,2651
+812,2652,North Truro,2652
+813,2653,Orleans,2653
+814,2655,Osterville,2655
+815,2657,Provincetown,2657
+816,2659,South Chatham,2659
+817,2660,South Dennis,2660
+818,2661,South Harwich,2645
+819,2662,South Orleans,2653
+820,2663,South Wellfleet,2663
+821,2664,South Yarmouth,2664
+822,2666,Truro,2666
+823,2667,Wellfleet,2667
+824,2668,West Barnstable,2668
+825,2669,West Chatham,2669
+826,2670,West Dennis,2670
+827,2671,West Harwich,2671
+828,2672,West Hyannisport,2672
+829,2673,West Yarmouth,2673
+830,2675,Yarmouth Port,2675
+831,2702,Assonet,2702
+832,2703,Attleboro,2703
+833,2712,Chartley,2766
+834,2713,Cuttyhunk,2713
+835,2714,Dartmouth,2748
+836,2715,Dighton,2715
+837,2717,East Freetown,2717
+838,2718,East Taunton,2718
+839,2719,Fairhaven,2719
+840,2720,Fall River,2720
+841,2721,Fall River,2721
+842,2722,Fall River,2721
+843,2723,Fall River,2723
+844,2724,Fall River,2724
+845,2725,Somerset,2725
+846,2726,Somerset,2726
+847,2738,Marion,2738
+848,2739,Mattapoisett,2739
+849,2740,New Bedford,2740
+850,2741,New Bedford,2740
+851,2742,New Bedford,2740
+852,2743,Acushnet,2743
+853,2744,New Bedford,2744
+854,2745,New Bedford,2745
+855,2746,New Bedford,2746
+856,2747,North Dartmouth,2747
+857,2748,South Dartmouth,2748
+858,2760,North Attleboro,2760
+859,2761,North Attleboro,2760
+860,2762,Plainville,2762
+861,2763,Attleboro Falls,2763
+862,2764,North Dighton,2764
+863,2766,Norton,2766
+864,2767,Raynham,2767
+865,2768,Raynham Center,2767
+866,2769,Rehoboth,2769
+867,2770,Rochester,2770
+868,2771,Seekonk,2771
+869,2777,Swansea,2777
+870,2779,Berkley,2779
+871,2780,Taunton,2780
+872,2790,Westport,2790
+873,2791,Westport Point,2791
+1897,5501,Andover,1810
