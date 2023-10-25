@@ -1,0 +1,138 @@
+Label,Estimate,Margin of Error,Percent,Percent Margin of Error
+Estimate Employment Status Population 16 Years And Over,4691,588,4691,(X)
+Estimate Employment Status Population 16 Years And Over In Labor Force,2336,386,49.8,5.3
+Estimate Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force,2336,386,49.8,5.3
+Estimate Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force Employed,2176,369,46.4,5.5
+Estimate Employment Status Population 16 Years And Over In Labor Force Civilian Labor Force Unemployed,160,125,3.4,2.6
+Estimate Employment Status Population 16 Years And Over In Labor Force Armed Forces,0,18,0.0,0.8
+Estimate Employment Status Population 16 Years And Over Not In Labor Force,2355,386,50.2,5.3
+Estimate Employment Status Civilian Labor Force,2336,386,2336,(X)
+Estimate Employment Status Civilian Labor Force Unemployment Rate,(X),(X),6.8,5.1
+Estimate Employment Status Females 16 Years And Over,2361,325,2361,(X)
+Estimate Employment Status Females 16 Years And Over In Labor Force,956,211,40.5,7.3
+Estimate Employment Status Females 16 Years And Over In Labor Force Civilian Labor Force,956,211,40.5,7.3
+Estimate Employment Status Females 16 Years And Over In Labor Force Civilian Labor Force Employed,902,204,38.2,7.2
+Estimate Employment Status Own Children Of The Householder Under 6 Years,403,128,403,(X)
+Estimate Employment Status Own Children Of The Householder Under 6 Years All Parents In Family In Labor Force,259,110,64.3,19.8
+Estimate Employment Status Own Children Of The Householder 6 To 17 Years,758,206,758,(X)
+Estimate Employment Status Own Children Of The Householder 6 To 17 Years All Parents In Family In Labor Force,577,199,76.1,11.2
+Estimate Commuting To Work Workers 16 Years And Over,2070,337,2070,(X)
+"Estimate Commuting To Work Workers 16 Years And Over Car, Truck, Or Van -- Drove Alone",1744,308,84.3,5.9
+"Estimate Commuting To Work Workers 16 Years And Over Car, Truck, Or Van -- Carpooled",200,91,9.7,4.1
+Estimate Commuting To Work Workers 16 Years And Over Public Transportation (Excluding Taxicab),0,18,0.0,1.8
+Estimate Commuting To Work Workers 16 Years And Over Walked,47,58,2.3,2.8
+Estimate Commuting To Work Workers 16 Years And Over Other Means,37,53,1.8,2.5
+Estimate Commuting To Work Workers 16 Years And Over Worked From Home,42,50,2.0,2.4
+Estimate Commuting To Work Workers 16 Years And Over Mean Travel Time To Work (Minutes),25.8,3.4,(X),(X)
+Estimate Occupation Civilian Employed Population 16 Years And Over,2176,369,2176,(X)
+"Estimate Occupation Civilian Employed Population 16 Years And Over Management, Business, Science, And Arts Occupations",469,130,21.6,5.5
+Estimate Occupation Civilian Employed Population 16 Years And Over Service Occupations,316,115,14.5,4.6
+Estimate Occupation Civilian Employed Population 16 Years And Over Sales And Office Occupations,458,161,21.0,5.6
+"Estimate Occupation Civilian Employed Population 16 Years And Over Natural Resources, Construction, And Maintenance Occupations",271,113,12.5,4.5
+"Estimate Occupation Civilian Employed Population 16 Years And Over Production, Transportation, And Material Moving Occupations",662,184,30.4,7.2
+Estimate Industry Civilian Employed Population 16 Years And Over,2176,369,2176,(X)
+"Estimate Industry Civilian Employed Population 16 Years And Over Agriculture, Forestry, Fishing And Hunting, And Mining",30,33,1.4,1.5
+Estimate Industry Civilian Employed Population 16 Years And Over Construction,114,72,5.2,2.9
+Estimate Industry Civilian Employed Population 16 Years And Over Manufacturing,707,181,32.5,6.8
+Estimate Industry Civilian Employed Population 16 Years And Over Wholesale Trade,27,29,1.2,1.3
+Estimate Industry Civilian Employed Population 16 Years And Over Retail Trade,299,146,13.7,5.8
+"Estimate Industry Civilian Employed Population 16 Years And Over Transportation And Warehousing, And Utilities",143,73,6.6,3.3
+Estimate Industry Civilian Employed Population 16 Years And Over Information,12,16,0.6,0.7
+"Estimate Industry Civilian Employed Population 16 Years And Over Finance And Insurance, And Real Estate And Rental And Leasing",175,102,8.0,4.5
+"Estimate Industry Civilian Employed Population 16 Years And Over Professional, Scientific, And Management, And Administrative And Waste Management Services",111,64,5.1,3.1
+"Estimate Industry Civilian Employed Population 16 Years And Over Educational Services, And Health Care And Social Assistance",418,126,19.2,4.8
+"Estimate Industry Civilian Employed Population 16 Years And Over Arts, Entertainment, And Recreation, And Accommodation And Food Services",56,50,2.6,2.2
+"Estimate Industry Civilian Employed Population 16 Years And Over Other Services, Except Public Administration",48,45,2.2,2.0
+Estimate Industry Civilian Employed Population 16 Years And Over Public Administration,36,29,1.7,1.4
+Estimate Class Of Worker Civilian Employed Population 16 Years And Over,2176,369,2176,(X)
+Estimate Class Of Worker Civilian Employed Population 16 Years And Over Private Wage And Salary Workers,1784,324,82.0,4.7
+Estimate Class Of Worker Civilian Employed Population 16 Years And Over Government Workers,219,84,10.1,3.5
+Estimate Class Of Worker Civilian Employed Population 16 Years And Over Self-Employed In Own Not Incorporated Business Workers,172,74,7.9,3.1
+Estimate Class Of Worker Civilian Employed Population 16 Years And Over Unpaid Family Workers,1,3,0.0,0.1
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households,1928,259,1928,(X)
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households Less Than $10,000",98,64,5.1,3.2
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $10,000 To $14,999",85,45,4.4,2.3
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $15,000 To $24,999",249,111,12.9,5.7
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $25,000 To $34,999",295,147,15.3,6.8
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $35,000 To $49,999",376,141,19.5,6.7
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $50,000 To $74,999",333,104,17.3,5.3
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $75,000 To $99,999",252,92,13.1,4.3
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $100,000 To $149,999",187,77,9.7,4.0
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $150,000 To $199,999",21,19,1.1,1.0
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households $200,000 Or More",32,26,1.7,1.3
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households Median Household Income (Dollars),41800,8368,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households Mean Household Income (Dollars),63192,12407,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Earnings,1349,202,70.0,7.5
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Earnings Mean Earnings (Dollars),56770,7656,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Social Security,893,183,46.3,6.2
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Social Security Mean Social Security Income (Dollars),19524,2333,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Retirement Income,452,133,23.4,6.3
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Retirement Income Mean Retirement Income (Dollars),19499,4247,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Supplemental Security Income,218,134,11.3,6.2
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Supplemental Security Income Mean Supplemental Security Income (Dollars),9023,1549,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Cash Public Assistance Income,26,25,1.3,1.3
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Cash Public Assistance Income Mean Cash Public Assistance Income (Dollars),2019,3052,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Total Households With Food Stamp/Snap Benefits In The Past 12 Months,269,143,14.0,6.5
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families,1420,223,1420,(X)
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families Less Than $10,000",37,34,2.6,2.4
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $10,000 To $14,999",30,33,2.1,2.2
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $15,000 To $24,999",158,93,11.1,6.2
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $25,000 To $34,999",238,145,16.8,9.0
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $35,000 To $49,999",233,96,16.4,6.6
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $50,000 To $74,999",281,104,19.8,7.1
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $75,000 To $99,999",220,90,15.5,6.1
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $100,000 To $149,999",183,77,12.9,5.5
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $150,000 To $199,999",21,19,1.5,1.4
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families $200,000 Or More",19,18,1.3,1.3
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families Median Family Income (Dollars),52714,9866,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Families Mean Family Income (Dollars),63532,6867,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Per Capita Income (Dollars),23394,4808,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Nonfamily Households,508,154,508,(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Nonfamily Households Median Nonfamily Income (Dollars),30000,11165,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Nonfamily Households Mean Nonfamily Income (Dollars),60276,43557,(X),(X)
+Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Median Earnings For Workers (Dollars),26204,2550,(X),(X)
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Median Earnings For Male Full-Time, Year-Round Workers (Dollars)",41103,8243,(X),(X)
+"Estimate Income And Benefits (In 2021 Inflation-Adjusted Dollars) Median Earnings For Female Full-Time, Year-Round Workers (Dollars)",27102,5016,(X),(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population,5661,699,5661,(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage,4778,629,84.4,4.9
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage With Private Health Insurance,3026,573,53.5,8.2
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population With Health Insurance Coverage With Public Coverage,2511,448,44.4,5.6
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population No Health Insurance Coverage,883,307,15.6,4.9
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Under 19 Years,1314,301,1314,(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population Under 19 Years No Health Insurance Coverage,26,35,2.0,2.7
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years,3287,490,3287,(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force,2105,345,2105,(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed,1948,311,1948,(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage,1609,329,82.6,6.3
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage With Private Health Insurance,1573,329,80.7,6.7
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed With Health Insurance Coverage With Public Coverage,70,41,3.6,2.0
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Employed No Health Insurance Coverage,339,111,17.4,6.3
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed,157,125,157,(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage,25,24,15.9,22.1
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage With Private Health Insurance,12,11,7.6,11.5
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed With Health Insurance Coverage With Public Coverage,13,20,8.3,15.6
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years In Labor Force Unemployed No Health Insurance Coverage,132,123,84.1,22.1
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force,1182,323,1182,(X)
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage,798,250,67.5,10.8
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage With Private Health Insurance,390,181,33.0,16.4
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force With Health Insurance Coverage With Public Coverage,569,233,48.1,12.2
+Estimate Health Insurance Coverage Civilian Noninstitutionalized Population 19 To 64 Years Not In Labor Force No Health Insurance Coverage,384,168,32.5,10.8
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families,(X),(X),13.1,6.5
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families With Related Children Of The Householder Under 18 Years,(X),(X),18.7,10.8
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only,(X),(X),3.4,5.8
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families Married Couple Families,(X),(X),8.1,6.7
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families Married Couple Families With Related Children Of The Householder Under 18 Years,(X),(X),6.9,6.8
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families Married Couple Families With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only,(X),(X),0.0,34.5
+"Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families Families With Female Householder, No Spouse Present",(X),(X),30.8,16.8
+"Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families Families With Female Householder, No Spouse Present With Related Children Of The Householder Under 18 Years",(X),(X),33.1,21.4
+"Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All Families Families With Female Householder, No Spouse Present With Related Children Of The Householder Under 18 Years With Related Children Of The Householder Under 5 Years Only",(X),(X),33.3,59.3
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People,(X),(X),18.7,6.7
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years,(X),(X),23.6,11.0
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years,(X),(X),22.2,11.3
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years Related Children Of The Householder Under 5 Years,(X),(X),8.1,9.0
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Under 18 Years Related Children Of The Householder Under 18 Years Related Children Of The Householder 5 To 17 Years,(X),(X),28.7,13.9
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over,(X),(X),17.3,7.3
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over 18 To 64 Years,(X),(X),19.3,8.8
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People 18 Years And Over 65 Years And Over,(X),(X),10.9,8.3
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People People In Families,(X),(X),15.0,7.4
+Estimate Percentage Of Families And People Whose Income In The Past 12 Months Is Below The Poverty Level All People Unrelated Individuals 15 Years And Over,(X),(X),38.8,13.0

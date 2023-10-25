@@ -1,0 +1,90 @@
+Label,Estimate,Margin of Error,Percent,Percent Margin of Error
+Estimate Sex And Age Total Population,1393,541,1393,(X)
+Estimate Sex And Age Total Population Male,901,340,64.7,7.1
+Estimate Sex And Age Total Population Female,492,231,35.3,7.1
+Estimate Sex And Age Total Population Sex Ratio (Males Per 100 Females),183.1,57.6,(X),(X)
+Estimate Sex And Age Total Population Under 5 Years,100,112,7.2,6.9
+Estimate Sex And Age Total Population 5 To 9 Years,108,86,7.8,4.5
+Estimate Sex And Age Total Population 10 To 14 Years,215,152,15.4,7.5
+Estimate Sex And Age Total Population 15 To 19 Years,13,28,0.9,1.7
+Estimate Sex And Age Total Population 20 To 24 Years,45,77,3.2,5.3
+Estimate Sex And Age Total Population 25 To 34 Years,117,122,8.4,7.0
+Estimate Sex And Age Total Population 35 To 44 Years,37,60,2.7,3.6
+Estimate Sex And Age Total Population 45 To 54 Years,115,117,8.3,8.3
+Estimate Sex And Age Total Population 55 To 59 Years,160,168,11.5,11.6
+Estimate Sex And Age Total Population 60 To 64 Years,171,187,12.3,14.6
+Estimate Sex And Age Total Population 65 To 74 Years,217,156,15.6,10.6
+Estimate Sex And Age Total Population 75 To 84 Years,40,62,2.9,4.3
+Estimate Sex And Age Total Population 85 Years And Over,55,67,3.9,5.8
+Estimate Sex And Age Total Population Median Age (Years),52.3,28.6,(X),(X)
+Estimate Sex And Age Total Population Under 18 Years,436,311,31.3,13.4
+Estimate Sex And Age Total Population 16 Years And Over,970,334,69.6,12.8
+Estimate Sex And Age Total Population 18 Years And Over,957,321,68.7,13.4
+Estimate Sex And Age Total Population 21 Years And Over,957,321,68.7,13.4
+Estimate Sex And Age Total Population 62 Years And Over,391,154,28.1,12.4
+Estimate Sex And Age Total Population 65 Years And Over,312,172,22.4,12.6
+Estimate Sex And Age Total Population 18 Years And Over,957,321,957,(X)
+Estimate Sex And Age Total Population 18 Years And Over Male,517,167,54.0,8.5
+Estimate Sex And Age Total Population 18 Years And Over Female,440,187,46.0,8.5
+Estimate Sex And Age Total Population 18 Years And Over Sex Ratio (Males Per 100 Females),117.5,41.1,(X),(X)
+Estimate Sex And Age Total Population 65 Years And Over,312,172,312,(X)
+Estimate Sex And Age Total Population 65 Years And Over Male,305,172,97.8,3.9
+Estimate Sex And Age Total Population 65 Years And Over Female,7,10,2.2,3.9
+Estimate Sex And Age Total Population 65 Years And Over Sex Ratio (Males Per 100 Females),4357.1,7463.1,(X),(X)
+Estimate Race Total Population,1393,541,1393,(X)
+Estimate Race Total Population One Race,1345,551,96.6,6.1
+Estimate Race Total Population Two Or More Races,48,80,3.4,6.1
+Estimate Race Total Population One Race,1345,551,96.6,6.1
+Estimate Race Total Population One Race White,1094,411,78.5,24.5
+Estimate Race Total Population One Race Black Or African American,251,395,18.0,24.1
+Estimate Race Total Population One Race American Indian And Alaska Native,0,14,0.0,3.3
+Estimate Race Total Population One Race American Indian And Alaska Native Cherokee Tribal Grouping,0,14,0.0,3.3
+Estimate Race Total Population One Race American Indian And Alaska Native Chippewa Tribal Grouping,0,14,0.0,3.3
+Estimate Race Total Population One Race American Indian And Alaska Native Navajo Tribal Grouping,0,14,0.0,3.3
+Estimate Race Total Population One Race American Indian And Alaska Native Sioux Tribal Grouping,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian Asian Indian,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian Chinese,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian Filipino,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian Japanese,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian Korean,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian Vietnamese,0,14,0.0,3.3
+Estimate Race Total Population One Race Asian Other Asian,0,14,0.0,3.3
+Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander,0,14,0.0,3.3
+Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Native Hawaiian,0,14,0.0,3.3
+Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Chamorro,0,14,0.0,3.3
+Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Samoan,0,14,0.0,3.3
+Estimate Race Total Population One Race Native Hawaiian And Other Pacific Islander Other Pacific Islander,0,14,0.0,3.3
+Estimate Race Total Population One Race Some Other Race,0,14,0.0,3.3
+Estimate Race Total Population Two Or More Races,48,80,3.4,6.1
+Estimate Race Total Population Two Or More Races White And Black Or African American,0,14,0.0,3.3
+Estimate Race Total Population Two Or More Races White And American Indian And Alaska Native,48,80,3.4,6.1
+Estimate Race Total Population Two Or More Races White And Asian,0,14,0.0,3.3
+Estimate Race Total Population Two Or More Races Black Or African American And American Indian And Alaska Native,0,14,0.0,3.3
+Estimate Race Alone Or In Combination With One Or More Other Races Total Population,1393,541,1393,(X)
+Estimate Race Alone Or In Combination With One Or More Other Races Total Population White,1142,394,82.0,24.1
+Estimate Race Alone Or In Combination With One Or More Other Races Total Population Black Or African American,251,395,18.0,24.1
+Estimate Race Alone Or In Combination With One Or More Other Races Total Population American Indian And Alaska Native,48,80,3.4,6.1
+Estimate Race Alone Or In Combination With One Or More Other Races Total Population Asian,0,14,0.0,3.3
+Estimate Race Alone Or In Combination With One Or More Other Races Total Population Native Hawaiian And Other Pacific Islander,0,14,0.0,3.3
+Estimate Race Alone Or In Combination With One Or More Other Races Total Population Some Other Race,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population,1393,541,1393,(X)
+Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race),235,230,16.9,15.7
+Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Mexican,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Puerto Rican,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Cuban,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population Hispanic Or Latino (Of Any Race) Other Hispanic Or Latino,235,230,16.9,15.7
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino,1158,490,83.1,15.7
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino White Alone,859,334,61.7,23.3
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Black Or African American Alone,251,395,18.0,24.1
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino American Indian And Alaska Native Alone,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Asian Alone,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Native Hawaiian And Other Pacific Islander Alone,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Some Other Race Alone,0,14,0.0,3.3
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races,48,80,3.4,6.1
+Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races Two Races Including Some Other Race,0,14,0.0,3.3
+"Estimate Hispanic Or Latino And Race Total Population Not Hispanic Or Latino Two Or More Races Two Races Excluding Some Other Race, And Three Or More Races",48,80,3.4,6.1
+Estimate Total Housing Units,530,164,(X),(X)
+"Estimate Citizen, Voting Age Population Citizen, 18 And Over Population",906,319,906,(X)
+"Estimate Citizen, Voting Age Population Citizen, 18 And Over Population Male",517,167,57.1,9.3
+"Estimate Citizen, Voting Age Population Citizen, 18 And Over Population Female",389,184,42.9,9.3

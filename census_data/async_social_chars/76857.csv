@@ -1,0 +1,155 @@
+Label,Estimate,Margin of Error,Percent,Percent Margin of Error
+Estimate Households By Type Total Households,926,177,926,(X)
+Estimate Households By Type Total Households Married-Couple Household,509,125,55.0,12.8
+Estimate Households By Type Total Households Married-Couple Household With Children Of The Householder Under 18 Years,161,74,17.4,8.3
+Estimate Households By Type Total Households Cohabiting Couple Household,24,23,2.6,2.4
+Estimate Households By Type Total Households Cohabiting Couple Household With Children Of The Householder Under 18 Years,0,14,0.0,5.0
+"Estimate Households By Type Total Households Male Householder, No Spouse/Partner Present",184,81,19.9,8.6
+"Estimate Households By Type Total Households Male Householder, No Spouse/Partner Present With Children Of The Householder Under 18 Years",0,14,0.0,5.0
+"Estimate Households By Type Total Households Male Householder, No Spouse/Partner Present Householder Living Alone",169,81,18.3,8.8
+"Estimate Households By Type Total Households Male Householder, No Spouse/Partner Present Householder Living Alone 65 Years And Over",40,33,4.3,3.5
+"Estimate Households By Type Total Households Female Householder, No Spouse/Partner Present",209,137,22.6,12.6
+"Estimate Households By Type Total Households Female Householder, No Spouse/Partner Present With Children Of The Householder Under 18 Years",65,74,7.0,7.6
+"Estimate Households By Type Total Households Female Householder, No Spouse/Partner Present Householder Living Alone",124,118,13.4,11.7
+"Estimate Households By Type Total Households Female Householder, No Spouse/Partner Present Householder Living Alone 65 Years And Over",67,61,7.2,6.2
+Estimate Households By Type Total Households Households With One Or More People Under 18 Years,239,101,25.8,10.2
+Estimate Households By Type Total Households Households With One Or More People 65 Years And Over,349,107,37.7,9.8
+Estimate Households By Type Total Households Average Household Size,2.14,0.29,(X),(X)
+Estimate Households By Type Total Households Average Family Size,2.70,0.34,(X),(X)
+Estimate Relationship Population In Households,1984,399,1984,(X)
+Estimate Relationship Population In Households Householder,926,177,46.7,6.4
+Estimate Relationship Population In Households Spouse,498,134,25.1,5.0
+Estimate Relationship Population In Households Unmarried Partner,23,19,1.2,0.9
+Estimate Relationship Population In Households Child,471,205,23.7,7.4
+Estimate Relationship Population In Households Other Relatives,66,41,3.3,2.1
+Estimate Relationship Population In Households Other Nonrelatives,0,14,0.0,2.4
+Estimate Marital Status Males 15 Years And Over,829,171,829,(X)
+Estimate Marital Status Males 15 Years And Over Never Married,147,93,17.7,9.7
+"Estimate Marital Status Males 15 Years And Over Now Married, Except Separated",490,124,59.1,11.7
+Estimate Marital Status Males 15 Years And Over Separated,28,41,3.4,4.9
+Estimate Marital Status Males 15 Years And Over Widowed,19,24,2.3,2.8
+Estimate Marital Status Males 15 Years And Over Divorced,145,68,17.5,7.7
+Estimate Marital Status Females 15 Years And Over,951,269,951,(X)
+Estimate Marital Status Females 15 Years And Over Never Married,242,193,25.4,15.7
+"Estimate Marital Status Females 15 Years And Over Now Married, Except Separated",517,136,54.4,14.7
+Estimate Marital Status Females 15 Years And Over Separated,52,81,5.5,8.4
+Estimate Marital Status Females 15 Years And Over Widowed,51,34,5.4,3.6
+Estimate Marital Status Females 15 Years And Over Divorced,89,61,9.4,6.4
+Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months,0,14,0,(X)
+"Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed, Divorced, And Never Married)",0,14,-666666666.0,-222222222.0
+"Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Unmarried Women (Widowed, Divorced, And Never Married) Per 1,000 Unmarried Women",0,159,(X),(X)
+"Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1,000 Women 15 To 50 Years Old",0,85,(X),(X)
+"Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1,000 Women 15 To 19 Years Old",0,414,(X),(X)
+"Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1,000 Women 20 To 34 Years Old",0,435,(X),(X)
+"Estimate Fertility Number Of Women 15 To 50 Years Old Who Had A Birth In The Past 12 Months Per 1,000 Women 35 To 50 Years Old",0,114,(X),(X)
+Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years,6,9,6,(X)
+Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Grandparents Responsible For Grandchildren,6,9,100.0,100.0
+Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren Less Than 1 Year,0,14,0.0,100.0
+Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 1 Or 2 Years,0,14,0.0,100.0
+Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 3 Or 4 Years,0,14,0.0,100.0
+Estimate Grandparents Number Of Grandparents Living With Own Grandchildren Under 18 Years Years Responsible For Grandchildren 5 Or More Years,6,9,100.0,100.0
+Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years,6,9,6,(X)
+Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Female,6,9,100.0,100.0
+Estimate Grandparents Number Of Grandparents Responsible For Own Grandchildren Under 18 Years Who Are Married,0,14,0.0,100.0
+Estimate School Enrollment Population 3 Years And Over Enrolled In School,347,118,347,(X)
+"Estimate School Enrollment Population 3 Years And Over Enrolled In School Nursery School, Preschool",15,26,4.3,7.5
+Estimate School Enrollment Population 3 Years And Over Enrolled In School Kindergarten,7,10,2.0,3.1
+Estimate School Enrollment Population 3 Years And Over Enrolled In School Elementary School (Grades 1-8),144,80,41.5,21.2
+Estimate School Enrollment Population 3 Years And Over Enrolled In School High School (Grades 9-12),173,107,49.9,22.3
+Estimate School Enrollment Population 3 Years And Over Enrolled In School College Or Graduate School,8,12,2.3,3.8
+Estimate Educational Attainment Population 25 Years And Over,1586,352,1586,(X)
+Estimate Educational Attainment Population 25 Years And Over Less Than 9Th Grade,13,16,0.8,1.0
+"Estimate Educational Attainment Population 25 Years And Over 9Th To 12Th Grade, No Diploma",162,200,10.2,11.2
+Estimate Educational Attainment Population 25 Years And Over High School Graduate (Includes Equivalency),554,183,34.9,9.5
+"Estimate Educational Attainment Population 25 Years And Over Some College, No Degree",415,155,26.2,9.7
+Estimate Educational Attainment Population 25 Years And Over Associate'S Degree,153,119,9.6,7.6
+Estimate Educational Attainment Population 25 Years And Over Bachelor'S Degree,216,122,13.6,7.6
+Estimate Educational Attainment Population 25 Years And Over Graduate Or Professional Degree,73,49,4.6,3.2
+Estimate Educational Attainment Population 25 Years And Over High School Graduate Or Higher,1411,257,89.0,11.2
+Estimate Educational Attainment Population 25 Years And Over Bachelor'S Degree Or Higher,289,128,18.2,8.1
+Estimate Veteran Status Civilian Population 18 Years And Over,1651,362,1651,(X)
+Estimate Veteran Status Civilian Population 18 Years And Over Civilian Veterans,246,107,14.9,5.1
+Estimate Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population,1984,399,1984,(X)
+Estimate Disability Status Of The Civilian Noninstitutionalized Population Total Civilian Noninstitutionalized Population With A Disability,467,168,23.5,9.1
+Estimate Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years,333,120,333,(X)
+Estimate Disability Status Of The Civilian Noninstitutionalized Population Under 18 Years With A Disability,61,89,18.3,25.6
+Estimate Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years,1133,281,1133,(X)
+Estimate Disability Status Of The Civilian Noninstitutionalized Population 18 To 64 Years With A Disability,240,100,21.2,10.0
+Estimate Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over,518,157,518,(X)
+Estimate Disability Status Of The Civilian Noninstitutionalized Population 65 Years And Over With A Disability,166,73,32.0,11.7
+Estimate Residence 1 Year Ago Population 1 Year And Over,1984,399,1984,(X)
+Estimate Residence 1 Year Ago Population 1 Year And Over Same House,1779,420,89.7,7.9
+Estimate Residence 1 Year Ago Population 1 Year And Over Different House (In The U.S. Or Abroad),205,148,10.3,7.9
+Estimate Residence 1 Year Ago Population 1 Year And Over Different House (In The U.S. Or Abroad) Different House In The U.S.,205,148,10.3,7.9
+Estimate Residence 1 Year Ago Population 1 Year And Over Different House (In The U.S. Or Abroad) Different House In The U.S. Same County,18,21,0.9,1.1
+Estimate Residence 1 Year Ago Population 1 Year And Over Different House (In The U.S. Or Abroad) Different House In The U.S. Different County,187,146,9.4,7.7
+Estimate Residence 1 Year Ago Population 1 Year And Over Different House (In The U.S. Or Abroad) Different House In The U.S. Different County Same State,174,139,8.8,7.4
+Estimate Residence 1 Year Ago Population 1 Year And Over Different House (In The U.S. Or Abroad) Different House In The U.S. Different County Different State,13,22,0.7,1.1
+Estimate Residence 1 Year Ago Population 1 Year And Over Different House (In The U.S. Or Abroad) Abroad,0,14,0.0,2.4
+Estimate Place Of Birth Total Population,1984,399,1984,(X)
+Estimate Place Of Birth Total Population Native,1944,393,98.0,2.0
+Estimate Place Of Birth Total Population Native Born In United States,1944,393,98.0,2.0
+Estimate Place Of Birth Total Population Native Born In United States State Of Residence,1530,347,77.1,6.8
+Estimate Place Of Birth Total Population Native Born In United States Different State,414,152,20.9,6.8
+"Estimate Place Of Birth Total Population Native Born In Puerto Rico, U.S. Island Areas, Or Born Abroad To American Parent(S)",0,14,0.0,2.4
+Estimate Place Of Birth Total Population Foreign Born,40,40,2.0,2.0
+Estimate U.S. Citizenship Status Foreign-Born Population,40,40,40,(X)
+Estimate U.S. Citizenship Status Foreign-Born Population Naturalized U.S. Citizen,29,36,72.5,44.0
+Estimate U.S. Citizenship Status Foreign-Born Population Not A U.S. Citizen,11,19,27.5,44.0
+Estimate Year Of Entry Population Born Outside The United States,40,40,40,(X)
+Estimate Year Of Entry Population Born Outside The United States Native,0,14,0,(X)
+Estimate Year Of Entry Population Born Outside The United States Native Entered 2010 Or Later,0,14,-666666666.0,-222222222.0
+Estimate Year Of Entry Population Born Outside The United States Native Entered Before 2010,0,14,-666666666.0,-222222222.0
+Estimate Year Of Entry Population Born Outside The United States Foreign Born,40,40,40,(X)
+Estimate Year Of Entry Population Born Outside The United States Foreign Born Entered 2010 Or Later,0,14,0.0,56.7
+Estimate Year Of Entry Population Born Outside The United States Foreign Born Entered Before 2010,40,40,100.0,56.7
+"Estimate World Region Of Birth Of Foreign Born Foreign-Born Population, Excluding Population Born At Sea",40,40,40,(X)
+"Estimate World Region Of Birth Of Foreign Born Foreign-Born Population, Excluding Population Born At Sea Europe",0,14,0.0,56.7
+"Estimate World Region Of Birth Of Foreign Born Foreign-Born Population, Excluding Population Born At Sea Asia",0,14,0.0,56.7
+"Estimate World Region Of Birth Of Foreign Born Foreign-Born Population, Excluding Population Born At Sea Africa",0,14,0.0,56.7
+"Estimate World Region Of Birth Of Foreign Born Foreign-Born Population, Excluding Population Born At Sea Oceania",11,21,27.5,41.6
+"Estimate World Region Of Birth Of Foreign Born Foreign-Born Population, Excluding Population Born At Sea Latin America",29,32,72.5,41.6
+"Estimate World Region Of Birth Of Foreign Born Foreign-Born Population, Excluding Population Born At Sea Northern America",0,14,0.0,56.7
+Estimate Language Spoken At Home Population 5 Years And Over,1975,400,1975,(X)
+Estimate Language Spoken At Home Population 5 Years And Over English Only,1894,400,95.9,3.1
+Estimate Language Spoken At Home Population 5 Years And Over Language Other Than English,81,60,4.1,3.1
+"Estimate Language Spoken At Home Population 5 Years And Over Language Other Than English Speak English Less Than ""Very Well""",13,21,0.7,1.1
+Estimate Language Spoken At Home Population 5 Years And Over Spanish,81,60,4.1,3.1
+"Estimate Language Spoken At Home Population 5 Years And Over Spanish Speak English Less Than ""Very Well""",13,21,0.7,1.1
+Estimate Language Spoken At Home Population 5 Years And Over Other Indo-European Languages,0,14,0.0,2.4
+"Estimate Language Spoken At Home Population 5 Years And Over Other Indo-European Languages Speak English Less Than ""Very Well""",0,14,0.0,2.4
+Estimate Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages,0,14,0.0,2.4
+"Estimate Language Spoken At Home Population 5 Years And Over Asian And Pacific Islander Languages Speak English Less Than ""Very Well""",0,14,0.0,2.4
+Estimate Language Spoken At Home Population 5 Years And Over Other Languages,0,14,0.0,2.4
+"Estimate Language Spoken At Home Population 5 Years And Over Other Languages Speak English Less Than ""Very Well""",0,14,0.0,2.4
+Estimate Ancestry Total Population,1984,399,1984,(X)
+Estimate Ancestry Total Population American,93,52,4.7,2.7
+Estimate Ancestry Total Population Arab,0,14,0.0,2.4
+Estimate Ancestry Total Population Czech,10,13,0.5,0.6
+Estimate Ancestry Total Population Danish,0,14,0.0,2.4
+Estimate Ancestry Total Population Dutch,8,13,0.4,0.7
+Estimate Ancestry Total Population English,302,155,15.2,8.0
+Estimate Ancestry Total Population French (Except Basque),30,28,1.5,1.4
+Estimate Ancestry Total Population French Canadian,27,42,1.4,2.1
+Estimate Ancestry Total Population German,458,203,23.1,9.9
+Estimate Ancestry Total Population Greek,0,14,0.0,2.4
+Estimate Ancestry Total Population Hungarian,0,14,0.0,2.4
+Estimate Ancestry Total Population Irish,267,118,13.5,7.2
+Estimate Ancestry Total Population Italian,7,11,0.4,0.5
+Estimate Ancestry Total Population Lithuanian,0,14,0.0,2.4
+Estimate Ancestry Total Population Norwegian,0,14,0.0,2.4
+Estimate Ancestry Total Population Polish,90,113,4.5,5.9
+Estimate Ancestry Total Population Portuguese,0,14,0.0,2.4
+Estimate Ancestry Total Population Russian,0,14,0.0,2.4
+Estimate Ancestry Total Population Scotch-Irish,174,130,8.8,6.4
+Estimate Ancestry Total Population Scottish,102,91,5.1,4.6
+Estimate Ancestry Total Population Slovak,0,14,0.0,2.4
+Estimate Ancestry Total Population Subsaharan African,7,10,0.4,0.5
+Estimate Ancestry Total Population Swedish,38,46,1.9,2.3
+Estimate Ancestry Total Population Swiss,13,22,0.7,1.1
+Estimate Ancestry Total Population Ukrainian,0,14,0.0,2.4
+Estimate Ancestry Total Population Welsh,2,4,0.1,0.2
+Estimate Ancestry Total Population West Indian (Excluding Hispanic Origin Groups),0,14,0.0,2.4
+Estimate Computers And Internet Use Total Households,926,177,926,(X)
+Estimate Computers And Internet Use Total Households With A Computer,892,177,96.3,2.2
+Estimate Computers And Internet Use Total Households With A Broadband Internet Subscription,751,177,81.1,9.8
